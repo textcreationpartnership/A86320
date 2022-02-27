@@ -1,0 +1,913 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against antinomianisme. The first dosis. The unjustifiablenesse of justification before faith. Prescribed and administred in a soft answer: I. To seven arguments. II. To the solutions of five objections. III. To the novell distinction of Gods reconciliation to man, without mans reconciliation to God. Penned plainly, for the undeceiving of the plain-hearted Christian; and mildely, for the regaining of our mistaken brother H.D. By D.H.</title>
+            <author>D. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86320</idno>
+            <idno type="STC">Wing H18</idno>
+            <idno type="STC">Thomason E42_23</idno>
+            <idno type="STC">ESTC P1317</idno>
+            <idno type="STC">ESTC R11942</idno>
+            <idno type="EEBO-CITATION">99859168</idno>
+            <idno type="PROQUEST">99859168</idno>
+            <idno type="VID">111235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111235)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E42[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against antinomianisme. The first dosis. The unjustifiablenesse of justification before faith. Prescribed and administred in a soft answer: I. To seven arguments. II. To the solutions of five objections. III. To the novell distinction of Gods reconciliation to man, without mans reconciliation to God. Penned plainly, for the undeceiving of the plain-hearted Christian; and mildely, for the regaining of our mistaken brother H.D. By D.H.</title>
+                  <author>D. H.</author>
+               </titleStmt>
+               <extent>[2], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.B. and R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "Seven arguments to prove, that in order of working God doth justifie his elect, before they doe actually beleeve" and "Grace, mercy, and peace" by Henry Denne.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Title page verso reprints the title page of Denne's "Seven arguments ..".</note>
+                  <note>Annotation on Thomason copy: "Aprill 13th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denne, Henry, 1606 or 7-1660? --  Seven arguments to prove, that in order of working God doth justfie his elect, before they doe actually beleeve --  Controversial literature --  Early works to 1800.</term>
+               <term>Denne, Henry, 1606 or 7-1660? --  Grace, mercy, and peace --  Controversial literature --  Early works to 1800.</term>
+               <term>Antinomianism --  Controversial literature --  Early works to 1800.</term>
+               <term>God --  Worship and love --  Early works to 1800.</term>
+               <term>God --  Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111235:1"/>
+            <pb facs="tcp:111235:1" rendition="simple:additions"/>
+            <p>AN ANTIDOTE AGAINST ANTINOMIANISME. <hi>The firſt Doſis.</hi> The unjuſtifiableneſſe of juſtification before faith. Preſcribed and adminiſtred in a ſoft Anſwer:
+<list>
+                  <item>I. To ſeven Arguments.</item>
+                  <item>II. To the ſolutions of five Objections.</item>
+                  <item>III. To the novell diſtinction of Gods reconciliation to man, without mans reconciliation to God.</item>
+               </list> Penned plainly, for the undeceiving of the plain-hearted Chriſtian; and mildely, for the regaining of our miſtaken brother <hi>H. D.</hi> by <hi>D. H.</hi>
+            </p>
+            <p>London, Printed for <hi>G. B.</hi> and <hi>R. W.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:111235:2"/>
+            <p>SEVEN ARGUMENTS to prove, <note place="margin">[a]</note> that in <hi>order of working,</hi> God doth juſtifie his Elect, before they do actually beleeve. VVith ſome Anſwers to the Objections that ſome make againſt the ſame. For the confirmation of thoſe that do truly beleeve, <note place="margin">[b]</note> leſt they ſhould attribute any part <hi>of the Office of Chriſt to</hi> the act of their beleeving.</p>
+            <q>
+               <bibl>
+                  <hi>Ezekiel 16.2, 3, 4, 5, 6.</hi> 
+                  <note place="margin">[c]</note>
+               </bibl>
+               <p>Son of man, cauſe Jeruſalem to know her abominations.</p>
+               <p>And ſay, Thus ſaith the Lord God unto Jeruſalem, Thy birth and thy nati<g ref="char:EOLhyphen"/>vity is of the land of Canaan, thy father was an Amorite, and thy mother an Hittite.</p>
+               <p>And as for thy nativity, in the day that thou waſt borne, thy navill was not cut, neither waſt thou waſhed in water to ſupple thee, thou waſt not ſalted at all, nor ſwadled at all.</p>
+               <p>None eye pitied thee, to do any of theſe things unto thee, but thou waſt caſt in<g ref="char:EOLhyphen"/>to the open field, to the loathing of thy perſon, in the day that thou waſt borne.</p>
+               <p>And when I paſſed by thee, and ſaw thee polluted in thine owne blood, I ſaid un<g ref="char:EOLhyphen"/>to thee when thou waſt in thy blood, Live: yea, I ſaid unto thee when thou waſt in thy blood, Live.</p>
+            </q>
+            <p>Printed in the yeere 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:111235:2"/>
+            <head>An anſwer to the Title.</head>
+            <p>
+               <hi>In Order of Working God doth juſtifie his Elect,
+<note place="margin">[a]</note> before they do actually be<g ref="char:EOLhyphen"/>lieve.]</hi> So you.</p>
+            <p n="1">1. Here you do more then ſeem, you do expreſſe your ſelf, to meane ju<g ref="char:EOLhyphen"/>ſtification in act or actuall juſtification, not juſtification meerely in Gods de<g ref="char:EOLhyphen"/>cree: For Gods decree to juſtifie is not a working iuſtification, ſo you flie off from that extreame of making a precedency of iuſtification before faith in Gods decree, where indeed the decree of faith, is as old, as the decree of iuſtification; yet in your diſpute you oft fall on againe upon this extreame.</p>
+            <p n="2">2. Here you ſeem (but you do but ſeem) to wave the other extreame, of holding a precedency in time of iuſtification before faith, you ſeem onely to hold a precedency in order of nature, becauſe you ſay <hi>in order of working;</hi> but you onely ſeem: For if onely the difference be in order of <hi>nature,</hi> this doth not inferre a neceſſity that they ſhould be ſevered in <hi>time,</hi> not an hour, not a quarter of an hour. But more is intended, namely, that a man may be inſtified many years before he believe, ſo in the 1. Argum: which is moſt falſe; yea we cannot ſay that in order of working in the ſame moment, when whole Chriſt is brought to the ſoule, that iuſtification goes before faith, if there be any precedency of one before another.</p>
+            <p>For, 1. Actuall iuſtification is by union with Chriſt, granted in 2. Argum. <hi>ad Phil.</hi> 3.9. Now the very inſtant of union is of Chriſts being in us, by ſpirit of faith, <hi>Epheſ.</hi> 3.17. 1 <hi>Ioh.</hi> 3. <hi>ult. Ioh.</hi> 1.12. you confeſſe the ſpirit unites in 2. Argum. <hi>[e].</hi>
+            </p>
+            <p n="2">2. If faith hath any thing to do in iuſtification, it is an inſtrument, but the toole is before the worke, in order of nature.</p>
+            <p n="3">3. Though the King purpoſeth to pardon a fellon, yet he doth not actually pardon, and pronounce diſcharged, till he accept and plead that pardon.</p>
+            <p n="4">4. The order of working ſet down <hi>Rom.</hi> 8.30. is, Whom he predeſtinated, them he called, whom he called, them he iuſtified; if effectuall calling in<g ref="char:EOLhyphen"/>cludes not faith, it is not effectuall, but onely that which may be in hypo<g ref="char:EOLhyphen"/>crites; but 2 <hi>Pet.</hi> 1.3. its plaine, calling is to glory and vertue.</p>
+            <p>It is a part of the office of Chriſt to give gifts and graces,
+<note place="margin">[b]</note> and ſo that of believing, to them whom he ſaves. <hi>Iohn</hi> 1.16.17. <hi>And of his fulneſſe have all we received, and grace for grace: For the Law was given by Moſes, but grace and truth came by Ieſus Chriſt. Iohn</hi> 17.19. <hi>And for their ſakes I ſanctifie my ſelfe, that they alſo might be ſanctified,</hi> Epheſ. 4.7.8. <hi>But unto every one of us is given grace according to the meaſure of the gift of Chriſt:</hi> How proves he that? From an act of his Mediatorſhip, namely his aſcenſion; <hi>Wherefore he ſaith when he aſcended up on high, he led captivity captive, and gave gifts unto men.</hi>
+            </p>
+            <p>
+               <hi>Ezek.</hi> 16.2.3.4.5.6. To this we anſwer,
+<note place="margin">[c]</note> that all that text doth not hold
+<pb n="2" facs="tcp:111235:3"/>out, that God iuſtified Jeruſalem one minute before he reſtored her to ſpiri<g ref="char:EOLhyphen"/>tuall life &amp; holines. For <hi>when he paſſed by, he ſaid, Live.</hi> And when he <hi>ſaid, Live, he entred into Covenant with her and waſhed her,</hi> v. 8.9. Chriſts name and nature is not barely to <hi>ſave</hi> us in our fins, but <hi>from our ſins, Matth.</hi> 1.21. to be as a <hi>Ieſus,</hi> a Saviour, ſo to be <hi>Immanuel, God with us, Matth.</hi> 21.23. Now this of God being with us, is applied not meerly to Gods decree, but to the execu<g ref="char:EOLhyphen"/>tion of his decree of calling, iuſtifying and glorifying, <hi>Rom.</hi> 8.30.31.</p>
+            <div type="part">
+               <head>Seven Arguments to prove that in order <hi>of working</hi> God doth juſtifie his Elect, before they doe <hi>actually beleeve.</hi> With ſome Anſwers to the Objections <hi>that ſome make againſt the ſame.</hi>
+               </head>
+               <p>THis Propoſition being contradicted, <hi>we are iuſtified before God, before the act of our be<g ref="char:EOLhyphen"/>leeving:</hi> This is the Propoſition which I do now undertake to vindicate, by the af<g ref="char:EOLhyphen"/>fiſtance of the Father of our Lord Jeſus Chriſt, <hi>whoſe honour is not a little concerned in it.</hi>
+                  <note place="margin">[b]</note> I will firſt of all lay down ſeven Arguments for the confirmation of the Truth; and then I will anſwer unto five Objections, brought by ſome againſt it.</p>
+               <div type="subpart">
+                  <head>An anſwer to the Preface.</head>
+                  <p>I had thought by that touch you give upon <hi>univerſall Gratians</hi> (as you call them) in the 5.
+<note place="margin">[a]</note> Argum. * that you had been an oppoſite to the <hi>univerſall Re<g ref="char:EOLhyphen"/>demptioniſts,</hi> the <hi>Pelagians, Semi-Pelagians, and Arminians.</hi> But I finde your doctrine in this point to be very conſonant and neere of kinne to theirs.</p>
+                  <p>Herein you <hi>agree</hi> with them;
+<note place="margin">So <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſher delivers their ſenſe.</note> who do thus ſay, that the benefit of Chriſts ſatisfaction is to be extended ſo farre, as that God for his part is actually re<g ref="char:EOLhyphen"/>conciled unto men, and doth really diſcharge men from their ſins, before they believe.</p>
+                  <p>You differ in this onely, that they ſay to <hi>all men</hi> God is ſo reconciled and gives a diſcharge, before faith comes; you ſay he is reconciled to <hi>all the Elect</hi> and diſchargeth them before faith comes.</p>
+                  <p>To deny this propoſition in the ſenſe you meane it, <hi>That we are juſtified before God, before</hi> (you mean in time) <hi>the act of our believing,</hi> doth nothing de<g ref="char:EOLhyphen"/>rogate from the honour of the Father or his Son.
+<note place="margin">[b]</note> Forthe Father hath com<g ref="char:EOLhyphen"/>mitted all the buſineſſe of the Church to Chriſt, <hi>Matth.</hi> 11.27, 28. 1 <hi>Cor.</hi> 15.
+<pb n="3" facs="tcp:111235:3"/>ſends us to be adviſed &amp; guided by Chriſt, <hi>Mat.</hi> 17.5. And Chriſt is honoured in that he muſt find the price of our redemption &amp; finde an hand for us to re<g ref="char:EOLhyphen"/>ceive it. So that the ſalvation and the application by faith, is all of the gift of Chriſt, and of the power of Chriſt. Epheſ. 2.8. <hi>By grace are ye ſaved through faith,</hi> (ſee Gods favour and Saints faith conioyned) <hi>and that not of your ſelves, it is the gift of God,</hi> who works to will and to do, <hi>Phil.</hi> 2.13.</p>
+                  <q>The Propoſition: <hi>We are juſtified before God, before the act of our beleeving.</hi>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument.</hi> I.</head>
+                  <p>LEt me ſpeake for thoſe that are not able to ſpeake for themſelves; I meane the little Babes, to whom belongs the Kingdom of God; I argue thus: <hi>Infants doe not beleeve:
+<note place="margin">[a]</note> But Infants are juſtified: Therefore ſome that do not believe, are juſtified.</hi> Which if it be granted, it will follow, that ſome are iuſtified before they believe. That infants are iuſtified, need no proofe *; That infants beleeve not, muſt be proved,
+<note place="margin">[b]</note> (although the Church of <hi>England</hi> hath long ſince put it out of doubt) Firſt, <hi>Faith cometh by hearing,</hi> Rom. 10.17. <hi>How ſhall they believe in him of whom they have not heard?</hi> ſhall we ſay, that infants in the Wombe hear the Word? Secondly, Faith is a Knowledge, as ſome ſay; a Perſwaſion, as others; a Truſt, as others: But Infants are capable neither of Truſt, Perſwaſion, or Knowledge; there<g ref="char:EOLhyphen"/>fore Infants are not capable of Faith. But ſome have ſaid, that infants hear the Word of God, beleeve in God, and love God, in an unknowne way;
+<note place="margin">[c]</note> as ſometimes <hi>John Baptiſt ſprang in his Mothers Wombe</hi> for joy, at the ſalutation of the Bleſſed Virgin: But Saint <hi>Auguſtine</hi> did anſwer long agoe not more wittily then truly, That <hi>this was done by a ſingular Miracle.</hi> Neither <hi>doth this conclude,</hi> other infants to beleeve any more,
+<note place="margin">[d]</note> then we may con<g ref="char:EOLhyphen"/>clude, all Aſſes to be good Counſellors, becauſe we read, that <hi>Balaams</hi> Aſſe ſpake more wiſely then her Maſter.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> I. </head>
+                  <q>* <hi>Yea if you would hold that infants are iuſtified before they believe, you had need exceedingly to prove that they are ſo iuſtified, for we know no Scripture for it.</hi>
+                  </q>
+                  <p>Juſtified infants do beleeve.
+<note place="margin">[a]</note> Such an infant may be filled with the holy Spirit, <hi>Luk.</hi> 1.15. And where is the Spirit, there are its fruits; one of which is faith, <hi>Gal.</hi> 5. The inbeing of grace no way depends upon the growing of the body: we know a reaſonable ſpirit is the ſubject of grace, and without re<g ref="char:EOLhyphen"/>ſpect to age. The Angels were full of grace as ſoone as made. Grace doth but perfect reaſon: The ſoule of an infant is full of reaſon; <hi>Ergo,</hi> why not capable of grace, that doth not hurt, but help reaſon? how more capable is the ſoule of a man aſleep of faith, then the ſoule of an elect waking childe? Yet, 1. God hath appeared to men in dreams, why not to a waking childe, re<g ref="char:EOLhyphen"/>vealing Chriſt unto it? 2. The habit of faith ſaves, elſe a believer dying in his ſleep, cannot be ſaved; All infuſed habits depend not on organicall know<g ref="char:EOLhyphen"/>ledge that enters by ſenſe. 3. Godly men in their deepeſt ſleep have oft the moſt rationall and divine notions: <hi>Ergo</hi> a childe may, awake; ſmiles are
+<pb n="4" facs="tcp:111235:4"/>the property of reaſon: they will ſmile.</p>
+                  <p>Infants do not believe,
+<note place="margin">[b]</note> becauſe <hi>Rom.</hi> 10.17. Anſwer, that is ſpoken <hi>de Adultis,</hi> of ripe in yeares; for there is mention of confeſſion and ſupplica<g ref="char:EOLhyphen"/>tion: The expreſſion is affirmative, not negative: By this argument, be<g ref="char:EOLhyphen"/>cauſe it is ſaid the <hi>ſpirit</hi> is given by hearing, 2 <hi>Cor.</hi> 3. <hi>Ergo,</hi> it could not be given to <hi>Iohn Baptiſt</hi> without hearing.</p>
+                  <p>This confirmes that ſpoken afore,
+<note place="margin">[c]</note> that <hi>Iohn</hi> was filled with the holy Spirit from the womb: now manifeſting an apprehenſion of Chriſt, by that motion the body was organized unto, namely leaping in the mothers wombe.</p>
+                  <p>For that of <hi>Auguſtine:</hi> 1. If men are to be urged in this point, then the whole ſtreame of all ſound Divines run to this effect: We are <hi>elected</hi> before all time: <hi>Created</hi> in the beginning of time: Juſtified in the fulneſſe of time: Glorified after all time: That the firſt is the decree, the other the execution.</p>
+                  <p n="2">2. <hi>Auguſtines</hi> ſpeech muſt be interpreted, that he meanes by <hi>miraculum, mirandum,</hi> or elſe his ſpeech is falſe, (as in many things he miſtooke) for a miracle is <hi>Mutatio naturae rei:</hi> of the water into wine: Moſes rod into a Serpent. Now <hi>Iohn</hi> in the womb was not altered in nature.</p>
+                  <p n="1">1.
+<note place="margin">[d]</note> It is not ſaid that the Aſſes ſoule was capable of humane reaſon and ſpeech: The voice or fitneſſe of ſpeech was created in his mouth. But it is ſaid <hi>Iohns</hi> ſoule was filled with the holy Ghoſt. This infuſion of the holy Spi<g ref="char:EOLhyphen"/>rit, in regard of Gods acting, is the ſame with his infuſion of the Spirit into all other believers; though the ſubiect not like to all other believers in regard of body. But the Lord did not make the aſſe ſpeake as he makes man to ſpeake. He makes man ſpeake, by the naturall inſtruments of ſpeech. And ſpeakes reaſon from a reaſonable ſoule. But the aſſes ſpeech was created a<g ref="char:EOLhyphen"/>bove the power of nature.</p>
+                  <p>And for that ſpeech that <hi>Iohns condition doth no more conclude that other in<g ref="char:EOLhyphen"/>fants do believe any more, then we may conclude all aſſes to be good counſellours, becauſe we read that Balaams aſſe ſpake more wiſely then his Maſter:</hi> We anſwer, 1. This will conclude, that as all aſſes would ſo ſpeake, if God did worke alike in them by creation; ſo all infants would believe if God did work alike in them by infuſion, as he did in <hi>Iohn.</hi> Yea,</p>
+                  <p n="2">2. We can conclude more <hi>a fortiori;</hi> If God doth put the ſpirit of faith (for ſo it is called 2 <hi>Cor.</hi> 4.) into <hi>Iohn,</hi> whom he intended ſhould live to be a man to ſee Chriſt and heare of him, if not hear him; how much more will he put the ſpirit of faith into elect infants that ſhall never grow up to man<g ref="char:EOLhyphen"/>hood, but die in their childehood?</p>
+                  <p n="3">3. We can conclude that ſome one hath had faith in infancy. But you can give us on inſtance of any one that hath beene iuſtified in infancy without faith; I ſay no inſtance of example. As for your Arguments, we will anſwer to them in order.</p>
+                  <pb n="5" facs="tcp:111235:4"/>
+                  <p n="4">4. It ſeemes more infants then <hi>Iohn</hi> have had ſaving grace in their infancy, <hi>Mar.</hi> 10. Elſe how were they pronounced bleſſed, and that to them did be<g ref="char:EOLhyphen"/>long the Kingdom of heaven; and were actually bleſſed of Chriſt?</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> II.</head>
+                  <q>
+                     <p>
+                        <hi>HE that is in Chriſt, is juſtified: But we muſt be in Chriſt, before we can believe:
+<note place="margin">[a] [b] [c]</note> Therefore we muſt be juſtified, before we can believe.</hi> The <hi>Major</hi> is plaine, the Minor is proved, that we muſt be in Chriſt before we can believe: <hi>To believe, is a fruit of the Spirit,</hi> Gal. 5. But we muſt be in Chriſt, before we can beare fruit; Therefore we muſt be in Chriſt, before we can believe, <hi>Joh.</hi> 15.4. <hi>As the branch cannot bear fruit of it ſelfe, except it abide in the Vine,
+<note place="margin">[d]</note> no more can ye, except ye abide in me.</hi> Secondly, if Faith be a good fruit, it is required, that men muſt be good Trees, before they can bring it forth; otherwiſe, <hi>Grapes</hi> ſhould be gathered of <hi>Thornes,</hi> and <hi>Figs</hi> of <hi>Thiſiles,</hi> Matth. 12.33. If you will,
+<note place="margin">[e]</note> the Argument may be this: <hi>He that hath the Spirit of Chriſt hath Chriſt; But we have the Spirit before we believe; Therefore we have Chriſt before we believe.</hi>
+                     </p>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An anſwer to Argument</hi> II.</head>
+                  <p n="1">1. THe Argument is falſe in the forme. For, 1.
+<note place="margin">[a]</note> The concluſion is uni<g ref="char:EOLhyphen"/>verſall, (i.) that all iuſtified perſons are iuſtified before they believe; which muſt not be in an argument in the third figure. For though expreſly the propoſition is but indefinit, yet you ſuppoſing it to be <hi>In re neceſſariâ,</hi> you yeild it to be univerſall. For if the concluſion in this figure may be univerſall, then I may inferre many falſhoods. As thus, Every man is rationall; every man is a living creature; <hi>Ergo,</hi> every living creature is rationall. For the the Minor terme muſt be the ſubiect of the concluſion, and the Maior terme the predicat. So by ſuch a kinde of argument as this I would inferre: All ef<g ref="char:EOLhyphen"/>fectually called are ſaved: All effectually called do ſin; <hi>Ergo,</hi> all that ſinne are ſaved.</p>
+                  <p n="2">2. There is another fault in the forme of the argument, which much con<g ref="char:EOLhyphen"/>cludes againſt you, which is this. The Minor terme as we ſaid, muſt be the ſubiect of the concluſion, the Maior terme, the predicat; now <hi>believing</hi> is the Minor terme, and <hi>juſtification</hi> is the Maior; and then the argument will according to rule be thus,</p>
+                  <p>He that is in Chriſt is iuſtified: we muſt be in Chriſt before we believe: <hi>Er<g ref="char:EOLhyphen"/>go</hi> we muſt believe, before we can be iuſtified.</p>
+                  <p>I anſwer artificially to Syllogiſmes becauſe you pretend art, and uſe Syllogiſmes.</p>
+                  <p n="2">2. The argument is falſe in the <hi>matter,</hi> namely in the Minor propoſition:
+<note place="margin">[b]</note> If by the word <hi>before</hi> you underſtand <hi>time,</hi> that we muſt be a <hi>certaine time</hi> in Chriſt, before we believe. For that cannot be: But in the ſame moment, that
+<pb n="6" facs="tcp:111235:5"/>we be actually in Chriſt, Chriſt is actually in us, <hi>Rom.</hi> 8.1. to the end of verſe 10. For Chriſt to be actually in us, or we in him, is an union; union is the uniting of two into one, <hi>Epheſ.</hi> 2.13.14.15. <hi>Ergo,</hi> we cannot be in him to be one with him, but he muſt be in us, one with us: Take up all the compariſons of this union, they wil import as much: As <hi>marriage;</hi> Is not marriage a mutual conſent? Is the man married to the woman, and not the woman to the man? <hi>They twaine ſhall be one fleſh,</hi> can this be true of one, and not of the other? Hath Chriſt our nature? Have not we his? Are we not (as the Apoſtle ſpeaks) ioyntly one ſpirit? 1 <hi>Cor.</hi> 6.17. Or of a <hi>Vine and branches.</hi> If the Vine be united to the branches, are not the branches to the Vine? Or of a body and members. If the body be united to the members, are not the members to it?</p>
+                  <p>Let any reaſonable man under heaven tell me, nakedly, particularly, and plainly, how actually we (I ſpeak of true Chriſtians) are in Chriſt, or Chriſt in us, either <hi>Phyſically</hi> or <hi>morally,</hi> call it what you will, but all is under the operation and notion of the Spirit of faith. 1. <hi>Phyſically,</hi> is there any thing of Chriſt in us? This can be no other then the ſpirit of Faith: The habit of the graces of the Spirit, one of which is faith, <hi>Epheſ.</hi> 3.17. For Chriſt him<g ref="char:EOLhyphen"/>ſelfe is in heaven. Are we any how peculiarly as true Chriſtians in Chriſt? This can be nothing elſe, but the actings of our faith carying &amp; caſting of our confi<g ref="char:EOLhyphen"/>dence, hope &amp; expectation and deſires &amp; love upon him, <hi>Heb.</hi> 6.18.19. Moſt plainly, <hi>Eph.</hi> 3.17, 18. we have both Chriſt being in us, &amp; we in him by faith.</p>
+                  <p n="2">2. <hi>Morally,</hi> if the Lord imputes Chriſts righteouſneſſe to me a true Chri<g ref="char:EOLhyphen"/>ſtian, my ſinnes unto him, as 2 <hi>Cor.</hi> 5. <hi>ult.</hi> and ſo reputes me iuſtified actu<g ref="char:EOLhyphen"/>ally in him, he doth all this under the notion of faith, <hi>Rom.</hi> 4.3. If any ſay, But we are eternally iuſtified in Gods election or purpoſe: We reply, iuſt ſo, as we eternally believe in Gods purpoſe. For he hath purpoſed eternally both equally. He that eternally purpoſed to iuſtifie, did eternally purpoſe to iuſtifie by Faith. Though the purpoſe it ſelfe be not for <hi>any foreſeen merit</hi> of faith. Now if purpoſe of iuſtifying, be actuall iuſtifying, then purpoſe is no purpoſe; or if actuall iuſtifying be a purpoſe, then act is no more act. For while purpoſe is, there is no act, whiles act is, it is no more a purpoſe. As we ſee in all humane things: we purpoſe till we go a iourney, when we go it, we no longer purpoſe, but go it. So in divine things, <hi>Epheſ.</hi> 3.5.6.7.8.9.10.11.</p>
+                  <p>The proofe of this Minor is,
+<note place="margin">[c]</note> to believe is a fruit of the Spirit, &amp;c. Here is ſuppoſed that either the Spirit muſt be in us <hi>a time,</hi> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> before it brings for the fruit of faith; <milestone type="tcpmilestone" unit="unspecified" n="2"/> (for in your argument you intend a difference of time) or that the <hi>Spirit</hi> or <hi>grace of faith</hi> muſt have long previous changes and prepa<g ref="char:EOLhyphen"/>rations, <milestone type="tcpmilestone" unit="unspecified" n="3"/> before it can act any thing: As ſap in a ſtock of a tree. But for the 1. The Spirit in the <hi>eſſence</hi> being God, cannot be ſaid at any time to be out of any man, good or bad. It were contrary to its infinitnes to be excluded out
+<pb n="7" facs="tcp:111235:5"/>of any <hi>thing,</hi> or any <hi>nothing.</hi> It muſt needs fill all things, as it muſt needs be God. If by the Spirit you meane the creating act of the Spirit, that whiles it is every where, it create in this or that man, the habit of ſaving graces, it doth it juſt then when Chriſt comes. For you ſay Chriſt and Spirit in a ſaving manner comes together. So [e]. For the 2. The Spirit needs no previous antecedent change or preparations: If an angelicall Spirit is full of under<g ref="char:EOLhyphen"/>ſtanding, and act as ſoone as it is created; then the Spirit eternally God, is eternally all act. For the third: Faith it ſelfe is the fruit of the Spirit, as all the habits of graces are, by which the Spirit is ſaid to be in Saints; ſo that as ſoon as faith is in a Saint, there is a fruit. And faith being above reaſon and ſenſs, 2 <hi>Cor.</hi> 5. it acts without being beholding to reaſon or ſenſe. So that all this Argument proves no <hi>before</hi> of time.</p>
+                  <p>You further prove the Minor: Secondly, (ſay you) if faith be a good fruit, it is required that men muſt be good trees, before they can bring it forth.</p>
+                  <p>
+                     <hi>Anſw.</hi> I do intreat you,
+<note place="margin">[d]</note> and all ingenuous men to conſider whether this be a ſafe expreſſion, to ſay either that men bring forth faith, when as but now you ſaid, it was a fruit of the Spirit, or that men can be good before they have faith, when as faith is that which makes the difference between good men and bad men, regenerate and unregenerate, <hi>Act.</hi> 15.9. And therefore ſo com<g ref="char:EOLhyphen"/>monly are good men in the new Teſtament called by the name of <hi>believers:</hi> So that as ſoon as faith comes in, the <hi>tree is good, it is made a vine, a fig tree, and ſo brings forth true grapes and figs:</hi> If men have not faith, let them have what goodneſſe they can, all is naught, <hi>Heb.</hi> 11.6. Which place we ſhall further vindicate, when we come to your reply to it.</p>
+                  <p>For your laſt Argument: <hi>He that hath the Spirit of Chriſt, hath Chriſt, &amp;c.</hi> 1. It is falſe in the forme, juſt as your 1. Argument noted with [a]</p>
+                  <p>For 1. as that, ſo this, is all univerſails (as you intend it) in the third figure.
+<note place="margin">[e]</note> 2. As in that the concluſion according to rule, was to be inverted, ſo this: So that the right concluſion is this: <hi>Therefore we believe before we have Chriſt.</hi> For the Maior terme muſt be the predicat in the concluſion. And this con<g ref="char:EOLhyphen"/>cluſion is true, not onely according to forme, upon your premiſes, but ac<g ref="char:EOLhyphen"/>cording to matter in order of nature: For when Chriſt comes to give him<g ref="char:EOLhyphen"/>ſelfe in marriage to us, he gives us the hand of faith to take him by the hand of his ſaving power; the ſun is ſeen by its own light, and quickning life; ſo Chriſt is received by the power of his own light and life of grace.</p>
+                  <p n="2">2. This argument in the Maior or 1. Propoſition claſheth againſt the proofe of the Minor, or 2. Propoſition in the beginning of the 2. Argument, noted with [b]. For there you ſay, <hi>we muſt be in Chriſt before we believe. To believe is a fruit of the Spirit,</hi> &amp;c. whence it followes by your Argument, that
+<pb n="8" facs="tcp:111235:6"/>we muſt in your ſenſe have Chriſt before we have the Spirit, or elſe the Spi<g ref="char:EOLhyphen"/>rit muſt be in us a barren Spirit without its fruits, or idle without working, which may not be imagined.</p>
+                  <p>Yet here you make <hi>the having of the Spirit to be the proofe, if not the cauſe, that we have Chriſt.</hi> For you make having the Spirit to be the <hi>Medius Terminus,</hi> the ſinew of your argument, which you know in point of art includes ſome<g ref="char:EOLhyphen"/>times the cauſe, ſometimes the ſigne.</p>
+                  <p>Therefore of neceſſity you muſt yeild your ſelfe miſtaken in one of theſe aſſertions, unleſſe you will cloſe with us, <hi>that Chriſt,</hi> and the ſaving worke of the Spirit, and faith, and conſequently iuſtification, come unto and into a man all at the ſame time.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> III.</head>
+                  <q>
+                     <p>
+                        <hi>ALL the Elect of God are juſtified before God;
+<note place="margin">[a]</note> But ſome of the Elect of God do not yet believe: therefore ſome that do not believe, are juſtified before God, and ſo by conſequence, before they believe.</hi>
+                        <note place="margin">[b]</note> The <hi>major</hi> is proved: <hi>They that cannot be charged with any thing, are juſtified; But none of the Elect of God can be charged with any thing: Therefore the Elect are juſtified. The minor</hi> is proved: <hi>Who ſhall lay any thing to the charge of Gods Elect? It is God that juſtifies: Who is he that condemneth? it is Chriſt that died, yea, rather that is riſen again,</hi> Rom. 8.33. <hi>He roſe again for our juſtification,</hi> Rom. 4.23.</p>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> III.</head>
+                  <p>ALl the Elect of God are iuſtified before God.
+<note place="margin">[a]</note> This is an ambiguous pro<g ref="char:EOLhyphen"/>poſition: Therefore we muſt pumpe out your meaning. If you meane all the elect are iuſtified before God, that is, in Gods thoughts, ever ſince they were elected, then you may as well ſay that all the elect do believe before God, in Gods thoughts ever ſince they were elected, for both are equally within the eternall decree of God. And ſo you gaine no <hi>before</hi> of time of iu<g ref="char:EOLhyphen"/>ſtification before faith.</p>
+                  <p>If you mean that after the elect are borne before they are new borne, by faith, they are iuſtified before God, that is, in Gods thoughts or opinion: You may ſay as well, ſo the elect after they are borne before new borne by faith, are before God, in Gods opinion, children of the devill, of the world, and of wrath, even as others. So evidently, <hi>Epheſ.</hi> 2.1, 2, 3. to end of <hi>ver.</hi> 8. <hi>And you hath he quickned who were dead in treſpaſſes and ſins, wherin in times paſt ye walked according to the courſe of this world, according to the prince of the power of the ayre</hi> (obſerve) <hi>the ſpirit that now worketh in the children of diſobedience; among whom alſo we all had our converſation in times paſt in the luſts of the fleſh,</hi> (obſerve now) <hi>and were by nature the children of wrath as well as others.</hi> Till when was there no difference between them and others? Till
+<pb n="9" facs="tcp:111235:6"/>grace came, and faith came, and put them into Chriſt, <hi>ver.</hi> 4.5, 6, 7, 8. The whole Chapter is to the ſame effect, <hi>ver.</hi> 12. to end of 18. They are without God, without Chriſt, till they be in Chriſt, till Chriſt preached peace unto them and gave them his Spirit, and then they come nigh and have acceſſe by one Spirit unto the Father. Heed alſo, 1 <hi>Cor.</hi> 6 9.10, 11. <hi>Know ye not that the unrighteous ſhall not inherit the Kingdom of God? Be not deceived, neither fornicatours, &amp;c. And ſuch were ſome of you.</hi> Till when? Till now that ye <hi>are waſhed, ye are ſanctified, ye are iuſtified.</hi> See he puts now ſanctification before iuſtification, that men may not conceive that they can be one minute ſevered. All this while God thinks what he ſpeaks, (for he cannot lie) therefore before converſion we are no more actually iuſtified, then we are actually un<g ref="char:EOLhyphen"/>iuſtified.</p>
+                  <p>If you ſay, in Gods predeſtination we are eternally iuſtified; we ſay as truly, in Gods predeſtination we are eternally fallen in <hi>Adam.</hi> For both are equally eternally fore-ordained, or elſe ſomewhat comes to paſſe that God did not foreknow, or could not hinder, which would argue ignorance and impotency in God; which to ſay were blaſphemy.</p>
+                  <p>To the Minor propoſition of the argument to prove that all the elect are iu<g ref="char:EOLhyphen"/>ſtified before God, (before faith comes,
+<note place="margin">[b]</note> for it is your meaning all along this diſpute) And to the proofe that the elect cannot be charged with any thing: for which you alledge, <hi>Rom.</hi> 8.33. We anſwer, 1. That whiles they are meerly elected before iuſtification by faith, they ſtand charged with many things. God himſelfe chargeth them with many heavy things, as but now you heard out of <hi>Ephe.</hi> 2. As 2 <hi>Cor.</hi> 13.3, 4.
+<note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> 
+                     <hi>Paul</hi> ſaith to them in whom Chriſt was mighty, <hi>that they were refuſe unleſſe Chriſt by faith were in them.</hi> They were but droſſe till the ſubſtance Chriſt by faith were in them.</p>
+                  <p n="2">2. That the text you alledge is cleerly againſt you, look on it well and ſubmit: <hi>Who ſhall lay any thing to the charge of Gods elect?</hi> Why Saint <hi>Paul?</hi> Becauſe <hi>it is</hi> (ſaith he) <hi>God that iuſtifieth:</hi> what iuſtification <hi>Paul</hi> do you meane? a iuſtification mentall in God, or a iuſtification actuall received by the believer? He ſhewes us he meanes an actuall iuſtification received and applied by the believer. For <hi>ver.</hi> 30. it is a iuſtification, following <hi>vncation according to Gods purpoſe;</hi> that is as effectuall as ever he purpoſed to call: And <hi>ver.</hi> 34. ſuch a iuſtification as hath Chriſts death and reſurrection and in<g ref="char:EOLhyphen"/>terceſſion and ſtrengthening in tribulations accompanying it.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> IV.</head>
+                  <q>
+                     <p>
+                        <hi>THey that have their ſins taken away, are iuſtified;
+<note place="margin">[a]</note> But the elect have their ſins taken away be<g ref="char:EOLhyphen"/>fore they believe:</hi> Ergo, <hi>the elect are iuſtified before they believe.</hi> The <hi>maior</hi> is proved: <hi>Bleſſed is the man whoſe iniquity is forgteen, and whoſe ſinne is covered,</hi> Rom. 4.7. The <hi>minor;</hi>
+                        <pb n="10" facs="tcp:111235:7"/>That the Elect have their ſins taken away before they believe,
+<note place="margin">[b]</note> is proved <hi>Joh.</hi> 1.29. <hi>Behold the Lambe of God that takes away the sins of the world;</hi> and Eſay 35.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>The Lord hath laid on him the iniquities of us all;</hi> and 1 Pet. 2.24 <hi>Himſelfe bare our sins in his own body on the Tree;</hi> and Rom. 6.6. <hi>Our old man is crucified with him, that the body of ſinne might be deſtroyed.</hi> Did Chriſt take away ſinne, or not? Did he beare them? Did he deſtroy the body of ſinne? If you ſay,
+<note place="margin">[c]</note> No; how will you eſcape the Sword of the Spirit? If you ſay, Yea; I deſire no more.</p>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> IV.</head>
+                  <p>YOu ſay,
+<note place="margin">[a]</note> they that have their ſins taken away are iuſtified; you prove it <hi>Rom.</hi> 4.7. Bleſſed is the man whoſe iniquity is forgiven, and whoſe ſin is covered. By this you intend to prove a man is iuſtified before he believes. But your own <hi>expreſſions</hi> and <hi>allegations</hi> are againſt that.
+<note place="margin">1. Expreſ<g ref="char:EOLhyphen"/>ſion.</note> For ſins are not <hi>ta<g ref="char:EOLhyphen"/>ken away</hi> (which is a Phyſicall act) by Gods meere mentall thoughts of iuſti<g ref="char:EOLhyphen"/>fying; but when he pronounceth the bleſſing of juſtification he ſaith withall, in <hi>whoſe heart is no guile, Pſal.</hi> 32.1, 2. which is the place the Apoſtle quotes, <hi>Rom.</hi> 4. See reall actuall iuſtification take our ſinnes from us, and our hearts from our ſins.
+<note place="margin">2. Allega<g ref="char:EOLhyphen"/>tion.</note> And with the ſame breath almoſt with which the Apoſtle ſaith, Bleſſed is the man whoſe iniquity is forgiven, he ſaith alſo, <hi>To him that be<g ref="char:EOLhyphen"/>leeveth on him that iuſtifieth the ungodly, is his faith counted for righteouſneſſe, Rom.</hi> 4.5, 6, 7.</p>
+                  <p>You go about to prove that the elects ſins are taken away before they be<g ref="char:EOLhyphen"/>lieve,
+<note place="margin">[b]</note> by that, <hi>Iſa.</hi> 53.8. 1 <hi>Pet.</hi> 2.24. <hi>Eph.</hi> 1.29. What do you intend by theſe generall places? would you by the two firſt places have it that Chriſt takes away the ſins of all the Jewes, contrary to <hi>Rom.</hi> 11.7. &amp;c. or by the third place, that Chriſt takes away the ſins of the whole world? contrary to <hi>Rom.</hi> 8.30. yet either you muſt take them in that falſe generall ſenſe, or elſe they make nothing to prove juſtification before faith. That place you alledge out of <hi>Rom.</hi> 6.6. is flat againſt you. For if ſinne be not deſtroyed, till crucified, then not till mortified. For crucifying ſignifies mortifieation, which is a part of ſanctification, <hi>Gal.</hi> 5.22, 23, 24. And the body of ſinne ſignifies not the guilt, but the filth and power, <hi>Rom.</hi> 7. And therefore this place ſuppoſeth juſtification by faith, even as faith is mentioned to precede that crucifying, in the place laſt alledged.</p>
+                  <p>Yet in the cloſe you ſeeme to triumph,
+<note place="margin">[c]</note> as if you had ſheerly carried away the gerland upon the hornes of an unanſwerable Dilemma. <hi>Saying, if we ſay Chriſt did take away ſinne, did bear them, did deſtroy the body of ſin, you deſire no more.</hi> Thus you. We anſwer; Chriſt doth take away ſinne, doth bear the ſins of men, but for whom? onely for the elect. And when doth he take away ſinne, and make his bearing to lighten men? Even when comes that juſtifi<g ref="char:EOLhyphen"/>cation
+<pb n="11" facs="tcp:111235:7"/>by faith, that, as you ſay, brings with it <hi>a crucifying of the body of ſinne;</hi> when comes that iuſtification, mentioned <hi>Rom.</hi> 5.1, 2, 3, 4.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> V.</head>
+                  <q>
+                     <p>
+                        <hi>VVE were made ſinners in the firſt</hi> Adam, <hi>before we had done good or evill;
+<note place="margin">[a]</note> Therefore we are made righteous in the ſecond</hi> Adam, <hi>before we have done good or evill.</hi> This conſequence is proved, <hi>Rom.</hi> 5.18, 19. <hi>As by the offence of one, judgement came upon all men to condemna<g ref="char:EOLhyphen"/>tion; even ſo by the righteouſneſſe of one, the free gift came upon all men unto juſtification of life: for as by one mans diſobedience many were made ſinners, ſo by the obedience of one ſhall ma<g ref="char:EOLhyphen"/>ny be made righteous.</hi> If you ſhall place the <hi>Emphaſis</hi> of this Text, in <hi>All,</hi> and <hi>many,</hi> you will cauſe the hearts of the * <hi>univerſall Gratians</hi> to leape for joy; which (I beleeve) you would not willingly do. Therefore you muſt be forced to place the <hi>Emphaſis</hi> in <hi>As,</hi> and <hi>So: As</hi> we ſinned all in the loynes of the firſt <hi>Adam; So</hi> were we all made righteous in the loynes of the ſecond <hi>Adam: The Lord Chriſt.</hi> And this agreeth with the miniſterie of Reconciliation;
+<note place="margin">[b]</note> to wit, that <hi>God was in Chriſt, reconciling the world to himſelfe, not imputing their treſpaſſes unto them,</hi> 2 Cor. 5.19. Truly, this Argument was of ſo great force,
+<note place="margin">[c]</note> that it did wring out of Car<g ref="char:EOLhyphen"/>dinall <hi>Bellarmine</hi> this confeſſion, as the Apoſtle teacheth, <hi>Rom.</hi> 5. That <hi>Chriſt may be put on, without a proper act of our ſoule:</hi> I confeſſe, I differ from the Cardinall, in his meanes of putting on Chriſt; yet this his confeſſion I acknowledge to be true.</p>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> V.</head>
+                  <p>IT is plaine by the place you alledge, <hi>Rom.</hi> 5.
+<note place="margin">[c]</note> That you meane not a ma<g ref="char:EOLhyphen"/>king of us ſinners in the firſt <hi>Adam,</hi> by Gods bare decree accounting us ſo. And if you do not ſo meane, but meane that we are actually accounted ſinners in the firſt <hi>Adam,</hi> ſince we came from his loines, before we had done good or evill: I admire how you dare affirme a thing ſo contrary to Scrip<g ref="char:EOLhyphen"/>ture: For the Apoſtle moſt evidently affirmeth in that <hi>Rom.</hi> 5. That though all that are come of <hi>Adam,</hi> have not ſinned after the ſimilitude of <hi>Adams</hi> tranſgreſſion, <hi>ver.</hi> 14. that is, have not ſinned actually in their particular per<g ref="char:EOLhyphen"/>ſons, as infants not any ſinne, nor any men that particular ſinne of <hi>Adam,</hi> yet <hi>ver.</hi> 12. it is ſaid expreſſy that death paſſed over all men, <hi>for that</hi> all have ſinned, or the Greeke will beare it, <hi>In whom</hi> all have ſinned.
+<note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> The former part of the verſe favours this reading in theſe words: <hi>As by one man ſinne entred into the world.</hi> Then concludes all have ſinned. Which how can it be true of infants in their conception, as <hi>Pſal.</hi> 51. unleſſe they be ſaid to ſinne <hi>in Adam?</hi>
+                  </p>
+                  <p>But however we read, the ſame concluſion will neceſſarily follow, that all; children and all; in the wombe, even <hi>Jacob</hi> and <hi>Eſau,</hi> have ſinned ori<g ref="char:EOLhyphen"/>ginally in the common nature at firſt exiſting in that publike father of man<g ref="char:EOLhyphen"/>kinde: I ſay originally; As true as we have our bodies from our Grand<g ref="char:EOLhyphen"/>fathers, ſo from the firſt <hi>Adam</hi> we had all the ſame corrupt ſenſes and appe<g ref="char:EOLhyphen"/>tite in him: though actually in our own perſons we ſinned not that ſinne, nor
+<pb n="12" facs="tcp:111235:8"/>do infants (as <hi>Jacob</hi> and <hi>Eſau</hi>) actually ſinne, as perſons of ripe years when (as the Law ſpeakes) they are <hi>capaces doli;</hi> can do evill, and give a ſeeming reaſon for it.</p>
+                  <p>So then, in briefe, our anſwer is: That <hi>Adams</hi> ſin is imputed to all, be<g ref="char:EOLhyphen"/>cauſe all did originally commit it: All our natures were at and in the com<g ref="char:EOLhyphen"/>mitting of it; which natures we lineally derive from him. And that you ſay, we are made ſinners in the firſt <hi>Adam,</hi> ſimply and abſolutely, before we have done evill, the Scripture ſaith no ſuch thing, but the contrary, that in him we are all ſinners. Therefore, to retort the Argument upon you, we are not made righteous in the ſecond <hi>Adam,</hi> till we partake of his nature; that is, his Divine nature, as 2 <hi>Pet.</hi> 1.4. which is that by which we eſcape corrup<g ref="char:EOLhyphen"/>tion through luſt. A part of which is faith; after reckoned up, and commen<g ref="char:EOLhyphen"/>ded to them, to whom <hi>Peter</hi> writes, in <hi>verſe</hi> 5. immediately following.</p>
+                  <p>To that you urge out of 2 <hi>Cor.</hi>
+                     <note place="margin">[b]</note> 5.19. I anſwer, the Scripture is no friend to univerſall redemption: And then what will follow on your behalfe? Surely no more will follow, or can follow but this, that in Gods ordinary way of Goſpell adminiſtration, God is in Chriſt, reconciling them of the world to himſelfe, that are perſwaded by him to believe and receive the word of re<g ref="char:EOLhyphen"/>conciliation: So evidently, immediately before and after that 19. verſe.</p>
+                  <p>Yet you ſay,
+<note place="margin">[c]</note> 
+                     <hi>This Argument did ſo wring Cardinall</hi> Bellarmine, <hi>that he con<g ref="char:EOLhyphen"/>feſſed Chriſt may be put on without a proper act of our ſoule.</hi> Surely then, the ſaddle was cloſer, and harder put on him by ſome other, then you have tackied it: or he was more artificially wrackt, then you here ſtretch him.</p>
+                  <p>But I am willing to imagine the urmoſt, you would, or could make of this Argument: It may be you have this in your thoughts, that, as in <hi>Adam,</hi> chil<g ref="char:EOLhyphen"/>dren are accounted ſinners, though they cannot act ſin, ſo, in Chriſt, chil<g ref="char:EOLhyphen"/>dren may be accounted righteous, though they cannot act faith.</p>
+                  <p>To which I anſwer: As there is a naturall habit of corruption in infants, that makes a foundation of a juſt relation of <hi>Adams</hi> ſinne to them; (For where there is no habituall corruption of nature, there is no imputation of <hi>Adams</hi> ſinne, as we ſee in Chriſts conception and humane nature: He was not accounted a ſinner in himſelfe, but is for them that are ſaved by him; but in himſelfe he was, and accounted moſt holy) So there is habituall faith in elect infants dying in their infancy, through which they are accounted righteous in Chriſt; as we have reaſoned to the 1. Argument.</p>
+                  <p>But that I am loath to wade too deep that little ones ſhould not follow, more might be ſaid: If it might be ſaid in ſome ſenſe Chriſt can be appre<g ref="char:EOLhyphen"/>hended without a proper act of our ſoule, that is, as it is a meere peculiar act of our ſoule; yet not without an act of Gods grace in that ſoule: Till that be put into the ſoul, no more is done in any particular elect perſon then what
+<pb n="13" facs="tcp:111235:8"/>was done in the eternall election, which the Scripture calls a purpoſe, <hi>Rom.</hi> 9. And a purpoſe is not the practiſe of the thing purpoſed; and of that act of grace the ſoule of the youngeſt elect infant is in a faire capacity. For the <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>intelligere,</hi> the naked act of underſtanding depends not on the organs of the ſenſes;
+<note place="margin">So the Ar<g ref="char:EOLhyphen"/>tiſts that handle of the nature of the rea<g ref="char:EOLhyphen"/>ſonable ſoule.</note> no nor doth the repreſenting of an intelligible object to the under<g ref="char:EOLhyphen"/>ſtanding depend upon the ſenſes, when God will in the darke, or in a dreame repreſent as in a viſion of the minde, the ſpecies or images of ſome ſpirituall thing that ſenſe never apprehended. How much leſſe doth the acts of grace in this act of underſtanding depend upon the body or ſenſes? So that though the body be a childe, great may be the actings of the gratiated ſoule.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> VI.</head>
+                  <q>
+                     <p>
+                        <hi>VVHere there is full ſatisfaction made, and the party offended accepting that ſatisfaction, and contented to reſt in it, there muſt needs follow perfect remiſſion of ſinnes; But in Chriſt crucified</hi> (before we beleeved) <hi>was full ſatisfaction made, and God was contented to reſt in that ſatisfaction: Therefore there will follow perfect remiſſion of ſinnes,</hi> &amp;c. Firſt,
+<note place="margin">[a]</note> that there was full ſatisfaction made in Chriſt, is proved <hi>Heb.</hi> 10.11, 12, 13, 14. <hi>verſ.</hi> For by one offering he hath perfected for ever them that are ſanctified. But the ſecond, that God is therewith con<g ref="char:EOLhyphen"/>tented to reſt in that ſatisfaction, we have the witneſſe of the Father, <hi>Matth.</hi> 3.17. <hi>This is my beloved Son in whom I am well pleaſed. Acquieſco,</hi> ſaith <hi>Beza.</hi> See <hi>Eſay</hi> 53.11. <hi>He ſhall ſee the travaile of his ſoule, and ſhall be ſatisfied.</hi>
+                     </p>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> VI.</head>
+                  <p>YOur ſixth Argument, as you prove it, will anſwer it ſelfe: That <hi>Heb.</hi> 10.11,
+<note place="margin">[a]</note> 12, 13, 14. ſhews expreſly, that though Chriſt did make ready the ſatisfaction for the common nature of men, before they knew of it, that after ſhould beleeve: yet it is not brought home, and made available, to any par<g ref="char:EOLhyphen"/>ticular perſon, but to the <hi>ſanctified.</hi> The ſanctified ones, for ever in all ages, and for eternity, have the ſatisfaction, not onely prepared, but <hi>perfected</hi> to them. See you <hi>Pareus, &amp;c.</hi> on the place, whether I deale not clearly with the place.</p>
+                  <p>That place alſo <hi>Matth.</hi> 3.17, is for us againſt you. It is, <hi>in</hi> whom, not <hi>with</hi> whom. So that it imports that he is onely well pleaſed with all he ſtudes in Chriſt: Elſe he doth not <hi>acquieſcere</hi> reſt pleaſed, but is earneſt till ſomewhat elſe be done, 2 <hi>Cor.</hi> 5.20. This interpretation is as old as <hi>Auguſtines</hi> time; whom I name becauſe you named him. But look to the Scripture, which to ſhew that God is well pleaſed, only with thoſe that are actuall in Chriſt, addes to this ſpeech, <hi>Matth.</hi> 17.5. <hi>Hear ye him,</hi> to draw men into Chriſt, that with them God may be wel pleaſed. Till men be actually in Chriſt, God is not well pleaſed with them though they be elect. See a notable place, <hi>Rom.</hi> 9.25. I
+<pb n="12" facs="tcp:111235:9"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="13" facs="tcp:111235:9"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="14" facs="tcp:111235:10"/>will call them my people, which were not my people, and her beloved which was not beloved; who were they? Them whom he had called, <hi>ver.</hi> 24.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Argument</hi> VII.</head>
+                  <q>
+                     <p>IF we are not iuſtified in his ſight before we believe,
+<note place="margin">[a]</note> then are we uniuſt ſinners, workers of iniquity; then doth the Lord hate us, for <hi>he hateth all the workers of iniquity,</hi> Pſal. 5. You know what abſurdity will follow, if you ſay, we muſt believe before God can love us: But it God hate us to day,
+<note place="margin">[b]</note> and love us to morrow, let <hi>Arminius</hi> with his diſciples hear this, and wonder, why they ſhould be blamed that ſay: we may be loved to day and hated to morrow; Children of God to day, and of the Devill to morrow: when they who would ſeeme their greateſt Adverſaries, will not ſpare to ſay; we may be hated to day, and loved to morrow; the children of the Devill to day, and of God to morrow. But that God <hi>loved us firſt,</hi> before we believed, when we were enemies, <hi>in our blood &amp;c.</hi> is ſo plaine, that I will not willingly ſo diſhonour you, as once to conceive that you will deny it.</p>
+                  </q>
+                  <p>Here is an end of the ſeven Arguments, which (if need had required) might have been ſeventie. Now I will anſwer the Objections.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>An Anſwer to Argument</hi> VII.</head>
+                  <p>IF we are not juſtified in his ſight before we believe,
+<note place="margin">[a]</note> then we are un<g ref="char:EOLhyphen"/>juſt, ſinners, workers of iniquity: <hi>Anſwer.</hi> So we are, As we have ſhewed out of <hi>Epheſ.</hi> 2.2. Where we are ſaid to walke <hi>after the courſe of the world,</hi> to be <hi>guided by the Spirit that ruleth in the children of diſobedience,</hi> and to be <hi>children of wrath as well as others,</hi> till we be in Chriſt by faith. <hi>v.</hi> 4, 5, 6, 7, 8. So 1 <hi>Cor.</hi> 6.9.10.11.</p>
+                  <p>But then ſaith the obiection: If we be workers of iniquity, <hi>God hates us,</hi> Pſalm. 5.</p>
+                  <p n="1">1. <hi>Anſw.</hi> We know no middle between Gods love and hate. And the text ſaith plainly, that till they be called, they are, in regard of actuall love, a people not beloved, <hi>Rom.</hi> 9.24.25. ☞ Some reply that this is meant of the Gentiles.</p>
+                  <p>To which, 1. We reply, that that is all one; In the Gentiles we ſee thoſe that were not beloved afore the call, are beloved after.</p>
+                  <p n="2">2. That the text names Jewes and Gentiles, and brings that of <hi>Hoſ.</hi> to prove it, with which if we go on to end of 3. <hi>chap.</hi> of <hi>Hoſ.</hi> it is fully proved: Chapters are of late invention.</p>
+                  <p>Beſides that 9. of <hi>Rom.</hi> we alledge that <hi>Ezekiell</hi> 16.8. It was a time of love.</p>
+                  <p>This text is urged againſt us, but you may ſee it is for us. For it ſhould ſeeme it was not the time of love till God paſſed by her, and ſpread his skirt over her, the righteouſneſſe and excellency of Chriſt.</p>
+                  <pb n="15" facs="tcp:111235:10"/>
+                  <p>In order of nature, ſhe lay in her blood before juſtified and loved. But in order of time, at the ſame time, yea minute of time, ſhe was in her blood, was juſtified and loved. At the ſame time, the ſoule is created in man. But in order of nature, the underſtanding acts before the will.</p>
+                  <p>And <hi>whereas it is ſaid, Eſau have I hated,</hi> not Jacob: <hi>But Iacob have I loved.</hi> This the Apoſtle applies peremptorily to Election and reprobation: Now Election is every where in Scripture called a <hi>purpoſe.</hi> If any where it be called a love, we muſt be forced to ioyn both together, unleſſe we will ſet the Scriptures together by the eares, and ſay; It is a purpoſe of love: Now a purpoſe is not an act, nor an act a purpoſe; Gods decree is not the execution, nor the execution the decreeing.</p>
+                  <p n="2">2. <hi>Anſw. Iſay</hi> 1.13. Your incenſe is abomination to me, the calling of Aſſemblies, I cannot away with it, it is iniquity, even the ſolemne <hi>meeting, your new moones and your appointed feaſts my ſoule hateth,</hi> &amp;c. And all becauſe their hands were full of blood.</p>
+                  <p>But <hi>ver.</hi> 18. Come now let us reaſon together; though your ſins be as ſcar<g ref="char:EOLhyphen"/>let, they ſhall be as white as ſnow.</p>
+                  <p>See here is as much ſaid of hating thoſe that ſhould be pardoned, <hi>ver.</hi> 25. as of Sodom and Gomorrah, <hi>ver.</hi> 10. God cannot hate the eſſence of the Devill, being his creature, but onely his manners. So of the iuſtified before iuſtified, as we have ſhewed.</p>
+                  <p>
+                     <hi>Anſw.</hi>
+                     <note place="margin">[b]</note> What abſurdity can be conceived by one principled with Divi<g ref="char:EOLhyphen"/>nity? For though man could fall in the firſt <hi>Adam;</hi> yet he cannot fall from the ſecond <hi>Adam,</hi> being once in him: <hi>For the gifts and calling of God,
+<note place="margin">Rom. 11.</note> are with<g ref="char:EOLhyphen"/>out repentance.</hi> We can perfectly ſinne being out of Chriſt, and ſo deſerve to be hated. But we being in Chriſt, have a perfect righteouſneſſe in him, that ſaves them to the utmoſt, that is, for ever, that come to God by him, ſee<g ref="char:EOLhyphen"/>ing he ever lives to make interceſſion for them, <hi>Heb.</hi> 7.25. So that as he breaks the power of corrupt nature, that it cannot ſinne perfectly with a full will, <hi>Rom.</hi> 7. ſo he perfectly pardons all ſinne, that there is no condemna<g ref="char:EOLhyphen"/>tion. <hi>Rom.</hi> 8.1.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div type="subpart">
+                  <head>
+                     <hi>Objection</hi> 1.</head>
+                  <q>
+                     <p>
+                        <hi>We are juſtified by Faith;</hi> therefore not before Faith.</p>
+                  </q>
+                  <div type="section">
+                     <head>Anſwer.</head>
+                     <p>Firſt, it ſhould have concluded, not before the act of beleeving.
+<note place="margin">[a]</note>
+                     </p>
+                     <p>Secondly, I denie the conſequence, and ſay, we may be juſtified both by it, and yet be<g ref="char:EOLhyphen"/>fore, in a different ſenſe.</p>
+                     <pb n="16" facs="tcp:111235:11"/>
+                     <p>This Propoſition, <hi>We are juſtified by Faith,</hi> is very ambiguous. He was not a Foole, who (an hundred years ſince) ſaid, that this Propoſition was one of thoſe things hard to be un<g ref="char:EOLhyphen"/>derſtood; which they that are unlearned and unſtable, wreſt, as they do other Scriptures, to their own deſtruction, 2 <hi>Pet.</hi> 3.16. I would our Age had not proved it true, that the miſ<g ref="char:EOLhyphen"/>underſtanding of this Propoſition hath turned upſide down the Doctrine of Juſtification amongſt pudling preachers.</p>
+                     <p>There is in this Propoſition two words ambiguous and doubtfull:</p>
+                     <p>The firſt <hi>(Juſtified)</hi> which ſometimes in Scriptures ſignifieth to be reputed, reckonned, or accounted <hi>Juſt;</hi> as, <hi>It is God that iuſtifieth.</hi> Sometimes it is taken for to be declared, or manifeſted to be <hi>Juſt:</hi> as, <hi>By workes a man is iuſtified,</hi> James 2.24. If you take <hi>Juſtified</hi> in the firſt ſenſe, we ſay, we are not reputed or reckoned <hi>Juſt</hi> by the act of believing. If you take <hi>Iuſtified</hi> in the ſecond ſenſe, I ſay, we are juſtified (that is, declared to be <hi>Iuſt</hi>) by be<g ref="char:EOLhyphen"/>lieving: Faith manifeſting to our conſciences, that we are <hi>Iuſt</hi> before God: By Faith we underſtand, that God hath freely <hi>iuſtified</hi> us in his Son.</p>
+                     <p>Another word ambiguous in this Propoſition, is <hi>(Faith)</hi> which is diverſly taken: ſome<g ref="char:EOLhyphen"/>times for the act of Faith, or <hi>believing;</hi> and ſometimes for the obiect of Faith, the thing <hi>believed:</hi> as, <hi>Faith was reckoned unto him for righteouſneſſe,</hi> Rom 4. that is, the obiect of faith: So that it is all one as if he had ſaid, God or Chriſt was reckoned to him for righteouſneſſe. If we underſtand the act of Faith, then I ſay, as before, we are not reckoned <hi>Iuſt</hi> by the act of our faith: if by faith we underſtand the obiect of our faith; then I ſay, we are recko<g ref="char:EOLhyphen"/>ned or reputed <hi>Iuſt</hi> by God, in, by, or through Chriſt Jeſus, our <hi>Faith.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>An anſwer to your reply to the</hi> 1. <hi>Obiection.</hi>
+                     </head>
+                     <p>We are iuſtified by faith, therefore not before faith. Your Anſwer is: 1. That the concluſion ſhould be, <hi>not before the act of believing.</hi> We reply, the concluſion ſhould not have more termes in it, then the premiſes.</p>
+                     <p n="2">2. That if a man hath the habit of faith, he cannot but be actually in Chriſt. For it is part of Chriſt.</p>
+                     <p n="2">2. You anſwer: That you deny the conſequence. We reply: That which is ſaid to be done by an inſtrument, inferres it is not done without the in<g ref="char:EOLhyphen"/>ſtrument.</p>
+                     <p n="3">3. You reply that a man may be iuſtified by faith, and yet be iuſtified be<g ref="char:EOLhyphen"/>fore faith in a different ſenſe, diſtinguiſhing of the reputation of one iuſt, and the manifeſtation of one iuſt. And of <hi>Fides quâ &amp; fides quam,</hi> of faith and its obiect.</p>
+                     <p>What is all this to the purpoſe, when your own former replies do intima<g ref="char:EOLhyphen"/>redly confeſſe that you took the Argument to mean iuſtification it ſelfe, not the manifeſtation, and faith the quality, not the obiect? For the Apoſtle doth not mean, <hi>Rom.</hi> 5.1. that Chriſt is the inſtrumentall cauſe, but the merito<g ref="char:EOLhyphen"/>rious cauſe: And faith the inſtrument. And the text meanes iuſtifying, not bare manifeſting of iuſtification.</p>
+                  </div>
+               </div>
+               <div type="subpart">
+                  <pb n="17" facs="tcp:111235:11"/>
+                  <head>
+                     <hi>Objection</hi> 2.</head>
+                  <q>
+                     <p>
+                        <hi>He that beleeveth not, is condemned already,</hi> John 3.18.</p>
+                  </q>
+                  <div type="section">
+                     <head>Anſwer.</head>
+                     <p>This is all one with; <hi>He that believeth not ſhall be damned:</hi>
+                        <note place="margin">[a]</note> which you muſt underſtand of finall unbeliefe, which I grant to be a note of Damnation.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>An Anſwer to your Reply to Obiection</hi> 2.</head>
+                     <p>This you ſay muſt be underſtood of finall unbeliefe.
+<note place="margin">[a]</note> As if a man were not in ſtate of damnation till the laſt.</p>
+                     <p>We reply; 1. What then meaneth the termes: <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, is condemned <hi>already?</hi> 2. How do you anſwer to the Antitheſis? He that believeth is not condemned: that is, is actually out of ſtate of damnation by faith: <hi>Ergo,</hi> without faith is actually in ſtate of damnation. 3, What ſay you to the rea<g ref="char:EOLhyphen"/>ſon? he is ſaid to be in ſtate of condemnation for his paſt infidelity, becauſe he <hi>hath</hi> not believed.</p>
+                  </div>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Objection</hi> 3.</head>
+                  <q>
+                     <p>
+                        <hi>Without Faith it is impoſſible to pleaſe God:</hi> therefore we cannot be iuſtified without it.</p> 
+                  </q>
+                  <div type="section">
+                     <head>Anſwer.</head>
+                     <p>
+                        <hi>I</hi> deny the <hi>conſequence;</hi> and <hi>I</hi> perceive ſo will you alſo, when you pleaſe:
+<note place="margin">[a] [b] [c] [d] [e] [f]</note> For you will affirme, a iuſtified <hi>perſon may diſpleaſe</hi> God, and then why is it not poſſible for a man to diſ<g ref="char:EOLhyphen"/>pleaſe God, and yet be iuſtified? To <hi>pleaſe God,</hi> is ſo to do thoſe things which God ap<g ref="char:EOLhyphen"/>proves in us to be well done, which we cannot doe, without Faith. That this is the meaning of the Apoſtle, is plaine by his reaſon: <hi>For he that commeth unto God, muſt be <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, &amp;c.</hi> We cannot come unto God, before we believe, but cannot God come unto us before we be<g ref="char:EOLhyphen"/>lieve? Now Juſtification is Gods act upon a ſinner, not a ſinners act upon God.</p>
+                     <p>This alſo anſwereth the fourth Obiection: <hi>Whatſoever is not of Faith is ſinne.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>An Anſwer to your Reply to Obiection</hi> 3.</head>
+                     <p>[You deny the conſequence] Before we reply,
+<note place="margin">[a]</note> note the meaning of the word <hi>pleaſe,</hi> it imports to be well pleaſing or acceptable.</p>
+                     <p n="1">1. So the Greeks take the word; So <hi>Baſil,</hi> 
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Abel</hi> the firſt that is ſaid to be acceptable to God was a ſhepheard. So <hi>Bud.</hi> renders it: See you more inſtances in Greeke Authours.</p>
+                     <p n="2">2. Its ſpoken in this 5. <hi>ver.</hi> not of doing, but of receiving: God tran<g ref="char:EOLhyphen"/>ſlated him, for before his tranſlation he had this Teſtimony that he pleaſed
+<pb n="18" facs="tcp:111235:12"/>God, which muſt be meant that he was well pleaſing to God by faith in Chriſt, (which is the Apoſtles ſcope, <hi>ver.</hi> 1. <hi>ver.</hi> 39.) or elſe you will make his doings the cauſe of his tranſlation.</p>
+                     <p n="3">3. This 6. <hi>ver.</hi> ſhewes that the word <hi>pleaſe</hi> muſt ſignifie to be accepted of God through faith in Chriſt, becauſe it is added, we muſt <hi>believe that God is,</hi> there is his eſſence, or that he is Jehovah; <hi>And that he is a rewarder of them that ſeeke him;</hi> there is his attribute of mercy to them that come to him by faith in Chriſt. For without faith no acceptable ſeeking him, <hi>Rom.</hi> 10.</p>
+                     <p n="4">4. This Epiſtle being written in Hebrew, the Hebrew renders the word <hi>pleaſe,</hi> 
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> was a delight to him.</p>
+                     <p n="5">5. Either this muſt be the meaning, that he that pleaſeth God, pleaſeth God by faith in Chriſt, or elſe the Apoſtles Argument drawn from <hi>Enoch</hi> to prove the Excellency of faith, which is the maine buſineſſe of this <hi>chap.</hi> comes to nothing, for this is the Apoſtles Argument. He that pleaſeth God hath faith: <hi>Enoch</hi> pleaſed God; therefore he had faith, and ſo by faith went to heaven.</p>
+                     <p>Now to anſwer to your reply, you deny the conſequence. 1. We anſwer by proving the conſequence. He onely that is juſtified pleaſeth, or is well pleaſing to God. This you yeild in your 6. Argument, therefore if a man be not juſtified by faith, he cannot pleaſe God: This inference is the Apoſtles in this 11. of <hi>Hebr.</hi> 5.6. compared with <hi>Rom.</hi> 5.1. For ſaith the Apoſtle, <hi>being juſtified by faith we have peace with God.</hi> And <hi>by faith Enoch pleaſed God,</hi> as ſure as <hi>Abel</hi> did. But ſaith he, <hi>without faith it is impoſſible to pleaſe God.</hi> Ob<g ref="char:EOLhyphen"/>ſerve and obſerve the word <hi>impoſſible,</hi> and ſee how it can be poſſible for a man to be well-pleaſing to God without faith.</p>
+                     <p n="2">2. We anſwer, though one juſtified by faith may do ſome diſpleaſing act, as <hi>Thomas</hi> did in doubting of Chriſts reſurrection, yet a man juſtified by faith cannot be diſpleaſing to God in his perſon: God may chaſten the corrupti<g ref="char:EOLhyphen"/>on, yet love the perſon, <hi>Revel.</hi> 3.19. We hate wantonneſſe and whip it, but we love the child. Faith brings in our Sonſhip, 1 <hi>John</hi> 12.</p>
+                     <p>To your reaſon for deniall of the conſequence,
+<note place="margin">[b]</note> we reply thus. That you ſeeme to inferre that becauſe one juſtified may diſpleaſe God in ſome action, therefore he may a time be without faith and diſpleaſe God in all his actions, and yet be juſtified: which inference is very much to be blamed, both for the conſequent, and conſequence.</p>
+                     <p>To your definition of pleaſing God in action,
+<note place="margin">[c]</note> I demand, whether God can approve of a greater thing without faith, namely our perſons, (being as you ſay iuſtified before faith comes) but cannot approve of a leſſe thing, namely our actions without faith? which ſeemes ſtrange.</p>
+                     <p>By faith our perſons are united to Chriſt, <hi>Epheſ.</hi> 3.17. And our actions
+<pb n="19" facs="tcp:111235:12"/>are but by a naturall dependence united to us. Therefore the perſon, is 1. Ac<g ref="char:EOLhyphen"/>cepted by faith, then 2. Our actions are accepted, becauſe our perſons; the Apoſtle ſaith, by faith <hi>Abel</hi> offered a more excellent ſacrifice: How? ſaith the text <hi>Gen.</hi> 4. God had reſpect to <hi>Abel,</hi> and his offering.</p>
+                     <p>To your reaſon,
+<note place="margin">[d]</note> that pleaſing God in action muſt be the <hi>onely</hi> meaning of the Apoſtle, I anſwer: That from the effect the Apoſtle proves how a man muſt have faith to be well-pleaſing to God in his perſon, that ſo he may be well-pleaſing in his practiſe.</p>
+                     <p>To your demand, whether God cannot come to us before we believe?
+<note place="margin">[e]</note> I anſwer; his making us to believe is coming in and dwelling with us, <hi>Eph.</hi> 3. Before that, God doth but onely purpoſe his coming, <hi>Epheſ.</hi> 1.</p>
+                     <p>To your cloſe, that Juſtification is an act of God upon a ſinner,
+<note place="margin">[f]</note> not a ſinners act upon God; we anſwer, that Gods putting faith into a man, and by it a man into Chriſt, is as well an act of God in iuſtifying him, as Gods reputing him iuſt in Chriſt, imputing his ſinnes to Chriſt, and Chriſts righ<g ref="char:EOLhyphen"/>teouſneſſe to him.</p>
+                  </div>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Obiection</hi> 5.</head>
+                  <q>
+                     <p>
+                        <hi>We are by nature the children of wrath, &amp;c.</hi>
+                     </p> 
+                  </q>
+                  <div type="section">
+                     <head>Anſwer.</head>
+                     <p>This were of ſome force,
+<note place="margin">[a]</note> if you could prove us altogether in the eſtate of nature as well in Gods account as in our eſteeme, and ſo quite exempred from grace untill we believe: which you cannot doe, for the Apoſtle witneſſeth the contrary, 2 <hi>Tim.</hi> 1.9.
+<note place="margin">[b]</note> 
+                        <hi>According to his own purpoſe and grace given us before the world began:</hi> If grace were given before the world began, ſurely before ever we believed.</p>
+                     <p>God is <hi>Alpha</hi> and <hi>Omega:</hi> therefore what he promiſeth ſhall come to paſſe to his,
+<note place="margin">[c]</note> is done with him, <hi>Rev.</hi> 21.6. For his workes were finiſhed from the foundation of the world,
+<note place="margin">[d]</note> 
+                        <hi>Heb.</hi> 4.3. And ſo <hi>I</hi> reſt,</p>
+                     <closer>
+                        <signed>
+                           <hi>A Servant of Ieſus Chriſt to live and die.</hi> H. D.</signed>
+                     </closer>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>An Anſwer to your Anſwer to the</hi> 5. <hi>Obiection.</hi>
+                     </head>
+                     <p>We reply, when God ſpeaketh thoſe texts, <hi>Epheſ.</hi> 2.1, 2, 3. and 1 <hi>Cor.</hi>
+                        <note place="margin">[a]</note> 6.9, 10, 11. (I pray turne to them and conſider them) ſure God ſpeakes as he thinkes. And if God doth not thinke mankinde children of wrath before faith comes, ſure they will not thinke themſelves ſo.</p>
+                     <p>To that place of 2 <hi>Tim.</hi> 1.9. we ſay,
+<note place="margin">[b]</note> that the place is expreſſe of Gods
+<pb n="20" facs="tcp:111235:13"/>gracious purpoſe. For otherwiſe then in purpoſe Chriſt himſelfe can<g ref="char:EOLhyphen"/>not be ſaid there to be given to us before the world began.</p>
+                     <p>To that <hi>Revel.</hi>
+                        <note place="margin">[c]</note> 21.6. God is <hi>Alpha and Omega,</hi> therefore what he pro<g ref="char:EOLhyphen"/>miſeth ſhall come to paſſe <hi>is done</hi> with him; we anſwer, all that ever any learned have made of that, or you can make is, that the thing ſpoken of there, was as certaine to be done in proceſſe of time, as if it had been then done, when it was ſpoken. But the certainty of a thing to be, doth not put the thing into a preſent being.
+<note place="margin">Gen. 3.</note> Gods promiſe of Chriſt in the beginning of time, doth not actually give Chriſt, till <hi>the fulneſſe</hi> of time.</p>
+                     <p>Yet if you will have a notion in your head of Gods actuall doing in him<g ref="char:EOLhyphen"/>ſelfe, that which is yet but in his promiſe and purpoſe; we retort; then ſo is it alſo in his threats. For the ſame expreſſion as you alledge out of <hi>Revel.</hi> 21.6. by way of promiſe of a mercy, is uſed by the ſame Saint <hi>John, Rev.</hi> by way of threat. So that if according to your poſition Gods promiſing to juſtifie, be an actuall juſtifying of a man with him, then Gods threatning to condemne, <hi>John</hi> 3.18. is an actuall condemning of a man with him. So that a man in this way, is as much condemned as juſtified, before faith comes, and ſo you have gained nothing.</p>
+                     <p>Chriſt himſelfe ſpeakes of Gods juſtifying him from the imputation of the ſinnes of men to him, in the future tence or time, <hi>Iſay</hi> 50.8, 9. <hi>He is neere that iuſtifieth me,</hi>
+                        <note place="margin">
+                           <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                        </note> or, as the Hebrew will very well bear it: <hi>The iuſtifier of me is neere who will contend with me, &amp;c. Behold the Lord will helpe me, who is he that ſhall condemne me?</hi> See by the oppoſite terme <hi>condemne,</hi> the word <hi>helpe</hi> ſignifies iuſtifying according to the title of the father in 8. <hi>ver.</hi> The <hi>juſtifier.</hi> So that if Chriſt was iuſtified in time from ſinne meerely imputed, then much more is a man iuſtified by Chriſt from ſinne inherent.</p>
+                     <p>Or elſe on the other ſide if according to your ſenſe Gods promiſe of iuſtifying be in God a iuſtifying of a man, then Gods promiſe of giving faith is in him a giving of faith to a man, and ſo faith is come as ſoon as iuſtification, iuſtification hath not got the ſtart of faith.</p>
+                     <p>To that <hi>Heb.</hi>
+                        <note place="margin">[d]</note> 4.3. we ſay, that it is expreſly meant as it is explained, <hi>ver.</hi> 4. of Gods <hi>reſting</hi> on the ſeventh day in the beginning of the world; and therefore cannot be underſtood of Gods <hi>finiſhing</hi> his workes, before the world was made: Gods purpoſes are not workes, Gods workes are done in time, thoſe of the creation in ſix dayes, thoſe of his providence, 6000. years, but Gods purpoſes were before all time from all eternitie.</p>
+                     <p>But of the nature of Gods purpoſes and decrees, and the Obiection about its unchangeableneſſe in our anſwer to ſome paſſages in your Ser<g ref="char:EOLhyphen"/>mons intituled, <hi>Grace, mercy and peace; containing Gods reconciliation to man, man reconciliation to God.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:111235:13"/>
+               <head>
+                  <hi>An Anſwer to ſeverall paſſages in your Booke, called Grace, mercy, and peace; containing (as you ſay)</hi> 1. <hi>Gods reconciliation to man:</hi> 2. <hi>Mans reconciliation to God.</hi>
+               </head>
+               <head type="sub">Delivered (as I conceive by the diviſion of your booke) in two Sermons: The 1. Concerning Gods reconciliation to man: The 2. Concerning mans reconciliation to God.</head>
+               <div type="subpart">
+                  <head>Sermon I.</head>
+                  <p>PAg. 1. You ſay, <hi>I will ſhew how God comes to be reconciled to men; beare with the terme reconciled, although improperly ſpoken of him that was never an enemy: So you.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. If God were never an enemy, why ſay you, I will ſhew you how God <hi>comes</hi> to be reconciled? How can there be any going or <hi>coming</hi> of his love to man, if he never an enemy to him?</p>
+                  <p>
+                     <hi>Anſw.</hi> 2. Reconciliation and enmity are relatives; as a father and a ſon; take away the relation of a father, and the relation of a ſon is gone, and ſo on the contrary. So if you deny that there was ever any enmity between God and man, you muſt needs utterly deny all reconciliation between God and man. <hi>Re</hi> ſignifies (as you know) <hi>again, Con</hi> ſignifies <hi>together,
+<note n="“" place="margin">Of <hi>Cico</hi>
+                        </note> ciliation</hi> to <hi>call or move</hi> to. How is there a <hi>moving</hi> to, where there was never any re<g ref="char:EOLhyphen"/>moving? How a <hi>together</hi> of thoſe that were never aſunder? How an <hi>again,</hi> unles there had been once an onenes or an agreement, which had been bro<g ref="char:EOLhyphen"/>ken to pieces, and now is made up againe (as the
+<note n="*" place="margin">of <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> alius, <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> permuto, Thence <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Commu<g ref="char:EOLhyphen"/>tatio, thence <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, commuta<g ref="char:EOLhyphen"/>tio, contra<g ref="char:EOLhyphen"/>ctus, Thence <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> A contra<g ref="char:EOLhyphen"/>cting a<g ref="char:EOLhyphen"/>gaine.</note> Greek word beares us out in all this) and ſo there is reconciliation? But whiles I am ſpeaking theſe things, I know you are gone for an appeale from the bar of reaſon (in mat<g ref="char:EOLhyphen"/>ters of faith) to the tribunall of Scripture. I go with you, for that is nothing elſe but a better, a divine reaſon.</p>
+                  <p>Say you that God was never an enemy to the Elect; and you make the fall of <hi>Adam</hi> (in whom the Elect are included) a fiction, you make the ſto<g ref="char:EOLhyphen"/>ry of the Goſpell touching Chriſt ſuffering a fable, as that Pope did, that ſaid blaſphemouſly, <hi>How much have we gotten by that fable of the Goſpel!</hi> you
+<pb n="22" facs="tcp:111235:14"/>make Chriſts paſſion (if you grant he did ſuffer for the ſins of the elect) to be a very vanity, a <hi>more then needs.</hi>
+                  </p>
+                  <p>You overthrow the nature of God,
+<note place="margin">Hab. 1.13.</note> whoſe purity cannot indure any ſinne as ſinne, in whomſoever it is, but reproves it ſharply all along the Scriptures in all his Elect.</p>
+                  <p>And you deny many Scriptures that teſtifie that God was at enmity with his Elect as well as they with him till they were believers, <hi>Epheſ.</hi> 2.2.3. <hi>As they are ſaid to walke as the worldly children of diſobedience, ſo in regard of God they are ſaid to be children of wrath.</hi> All ſpoken of the Elect, for they were now truly converted. Weigh the place, weigh alſo that <hi>Iſay</hi> 63.10.11. <hi>Therefore he was turned to be their enemy, then he remembred the dayes of old, &amp;c.</hi> That is, to have mercy on them.</p>
+                  <p>
+                     <hi>Obiect.</hi> Nor is it available for you to ſay that Chriſt died to reconcile us to God, not God to us.</p>
+                  <p>
+                     <hi>Anſw.</hi> For if that had been all the buſineſſe, God might have reconciled our ſtubborne natures into a love of him by the meere ſanctification of his Spirit, without the ſufferings of Chriſt, as at firſt he made the blancke and worthleſſe nature of Angells and <hi>Adam</hi> holy of innocent without the merits of a Saviour.
+<note place="margin">Till con<g ref="char:EOLhyphen"/>verſion comes, God is as well at enmity with the Elect, as the Elect with him.</note> Yea indeed had not Gods enmity againſt <hi>Eve</hi> concurred with <hi>Eves</hi> enmity againſt him, it is a queſtion whether <hi>Eve</hi> (the mother of all the Elect) had fallen when ſhe did: We ſpeake of the meanes and execution of the decree.</p>
+                  <p>For if whiles <hi>Eve</hi> was talking with Satan, God had not upon diſpleaſure (though iuſtly) withdrawn himſelfe and left <hi>Eve</hi> to her ſelfe, ſhe had not in all likelyhood then have eaten of the forbidden fruit.</p>
+                  <p>And ſo ſince, had not God taken diſpleaſure at the ſins of Elect, he had not ſuffered the doctrine of the Law ſo many hundreds of years to tyran<g ref="char:EOLhyphen"/>niſe and terrifie them in ſo many ages ſo much before their converſion, be<g ref="char:EOLhyphen"/>fore the fulneſſe of the Goſpel was revealed, as he hath done. And why doth God deferre the Call of ſo many Elect till the 6.9. and 11. hour of the day (and doth not call all at the 3.) but for this as one maine reaſon, to ſhew his enmity againſt ſinne in all men? And why when he begins to call, doth he ſuffer them to lie ſo long brined oft times in helliſh terrour, as we know ſome by wofull experience lie long ſo, notwithſtanding the holding forth Chriſt never ſo much to them? one reaſon muſt needs be Gods enmity againſt ſin, and ſo to chaſe men from it. Not to enlarge by way of diſcourſe. The text is moſt evident that God doth walke in an enmity againſt the ſins of his Elect till converſion, <hi>Levit.</hi> 26.40, 41, 42. <hi>If they ſhall confeſſe their iniquity, &amp;c. with their treſpaſſe which they have treſpaſſed againſt me, and that alſo they have walkea contrary unto me, and that alſo I have walked contrary unto them</hi> (marke
+<pb n="23" facs="tcp:111235:14"/>that) <hi>and have brought them into the land of their enemies, if then their uncir<g ref="char:EOLhyphen"/>cumciſed hearts</hi> (marke that) <hi>he humbled, and then they accept of the puniſh<g ref="char:EOLhyphen"/>ment of their iniquity,</hi> (obſerve that too) <hi>Then will I remember my Cove<g ref="char:EOLhyphen"/>nant, &amp;c.</hi>
+                  </p>
+                  <p>You goe on in that, 1. Pag. 10. I will ſhew you how God comes to be reconciled to men; 2. How we come to be reconciled unto God.</p>
+                  <p>
+                     <hi>Anſwer.</hi> Here you make theſe two reconciliations, not onely two di<g ref="char:EOLhyphen"/>ſtinct things, but doe alſo conceive them to be two ſeverall and divided, and ſeparated things, ſo that God to an elect perſon may be a long time, if not from all eternitie, actually reconciled, before that elect perſon be actually reconciled to God. This appeares plainely by your own words in this firſt Sermon. <hi>pag.</hi> 21, 22, 23. where you thus lay open your ſelf; <q rend="inline">
+                        <hi>For us to ſay, or thinke that Chriſt purchaſed the love of his father for us, is that which I am confident the Redeemer of the world will not challenge unto himſelf, but ſay (as in another caſe) It is not mine to give, but it was given to them, to whom it is given before the foundation of the world was layd. Gods love was before the gift of his Sonne. Did God love</hi> Paul <hi>with as great love when that he perſecuted the Church, as when he preached the Goſpel? I will anſwere boldly, He did.</hi>
+                     </q> So you.</p>
+                  <p>I will at this preſent only reply to the diſtinction it ſelf, anſwering the other paſſages in order after, as I ſhall trace you page after page.</p>
+                  <p>I ſay then, That actually, God cannot be ſaid to be reconciled to man, whiles a man is not reconciled to him. The word
+<note n="*" place="margin">Reconci<g ref="char:EOLhyphen"/>liatio. q. d. Re-con<g ref="char:EOLhyphen"/>ciere. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, ſign. con<g ref="char:EOLhyphen"/>tractum vi<g ref="char:EOLhyphen"/>ciſſitudi<g ref="char:EOLhyphen"/>narium. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> in compoſiti<g ref="char:EOLhyphen"/>one ſignif. habitudi<g ref="char:EOLhyphen"/>nem &amp; maiorem ſignifica<g ref="char:EOLhyphen"/>tionem.</note> 
+                     <hi>Reconciliation,</hi> both in Engliſh, Latine and Greek (which is the word the holy Ghoſt uſeth) ſigni<g ref="char:EOLhyphen"/>fies emphatically and fully, A making two ſeverall perſons to be at one a<g ref="char:EOLhyphen"/>gain, that were fallen at oddes. Two are not Reconciled, whiles one ſtands out. <hi>Galat.</hi> 3.19, 20. The Apoſtle ſpeaking of Reconciliation, ſaith, that <hi>Chriſt is not the Mediatour of one,</hi> therefore as God is one party, ſo tranſ<g ref="char:EOLhyphen"/>greſſors are the other party, both which are reconciled by the Promiſe lea<g ref="char:EOLhyphen"/>ding to Chriſt, that were at oddes by the tranſgreſſion of the Law. So 1. <hi>Tim.</hi> 2.5. <hi>There is one Mediatour between God and man, the Man Chriſt Jeſus; affirming evidently, that there is but one onely mediation of Reconciliati<g ref="char:EOLhyphen"/>on, and that of two parties, God and man into one.</hi> So <hi>Epheſ.</hi> 2.1, 2, 3, 12, 13, &amp;c. We are <hi>Children of diſobedience to God; God is a God of wrath to us, till faith in Chriſt comes, and then each to other at once are reconciled.</hi> So <hi>Rom.</hi> 5.1, 2. It is as evident as evident may be, That by faith in Chriſt, both God is reconciled to us; <hi>Being Juſtified by Faith, we have Peace with God,</hi> that is as the
+<note n="(*)" place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. We finde peace in God, wee finde God at peace.</note> Greek is, <hi>from God,</hi> God is at Peace with us; as alſo we are
+<pb n="24" facs="tcp:111235:15"/>reconciled to God, <hi>By Chriſt we have acceſſe by Faith into this grace wherein we ſtand, and reioyce in hope of the glory of God.</hi>
+                  </p>
+                  <q>Adde to all the Confeſſion of our Brother, that was a while miſtaken by the falſe light of this diſtinction, that he was reclaimed by that place, <hi>Ezeki<g ref="char:EOLhyphen"/>el.</hi> 16.63. <hi>That thou mayeſt be aſhamed and confounded, and never open thy mouth any more, becauſe of thy ſhame, when I am pacified towards thee for all that thou haſt done, ſaith the Lord God.</hi> Where it is evident, from the 62. verſe, that then only, when the Covenant is applyed, is God recon<g ref="char:EOLhyphen"/>ciled to man, as man is then reconciled to God.</q>
+                  <p>We confeſſe with the godly Learned, that there is of the elect a <hi>purpoſed Juſtification,</hi> or Reconciliation, in Gods eternall Decree, and a <hi>virtuall Jn<g ref="char:EOLhyphen"/>ſtification,</hi> or Reconciliation, in Chriſts Refurrection. <hi>He roſe again for our Juſtification.</hi> Then Chriſt had an acquitance from his Father for all the debts of the Elect, for which he had payd. Before Chriſts ſuffering, the Father truſted the Sonne to ſatisfie for them he ſaved in the old Teſtament. After Chriſts ſuffering, the Son truſted the Father to ſave all the Elect by virtue of that Suffering, that ſhould beleeve for time to come, till the worlds end. Both theſe are before our actuall Reconciliation to God. Before we Beleeve. The 1. is but that deſigning of the thing; the 2. the preparing. But that 3d, namely <hi>actuall Juſtification,</hi> or <hi>Reconciliation,</hi> of God to us, is the finiſhing at the ſame inſtant, that we are actually reconciled to God. The two former prepare the Iuſtification, or Reconciliation, the laſt onely makes the iuſtified man, makes God and man to be reconciled.</p>
+                  <p>You ſee we are ingenuous to yeeld what with truth may be yeelded. But further we cannot; as to ſay, God is actually reconciled to us before we are to him: you have heard the Scriptures, and Divine reaſon cleer againſt it. And therefore tremble you to ſay, <hi>That God loved</hi> Paul <hi>with as great love when he perſecuted the Church, as after when he preached the Goſpel.</hi> For pur<g ref="char:EOLhyphen"/>poſe, or preparation of a ground of love, is not ſo great as actuall Love. To purpoſe to wooe, is not equall unto the Love of wooing. Likewiſe trem<g ref="char:EOLhyphen"/>ble to ſay. That Chriſt did not purchaſe his Fathers actuall Love. For wee are not actually loved, till actually found in him.</p>
+                  <p>If it were ſo, that God were alwayes reconciled to us, why doe you con<g ref="char:EOLhyphen"/>demne your ſelfe in your own words next following, pag. 11. <q rend="inline">
+                        <hi>I conceive,</hi> (ſay you, and conſider what you ſay) the drooping Conſcience that ſits in darkneſſe, under the clowdy apprehenſion of an <hi>angry Junge,</hi> &amp;c. At<g ref="char:EOLhyphen"/>tentive to heare how God <hi>may be</hi> reconciled.</q> So you. How is God an angry Judge? how is there a <hi>may be</hi> of his Reconciliation to us. (terms
+<pb n="25" facs="tcp:111235:15"/>importing future time) if he was never at enmitie with us? If it were ſo, that God may be reconciled to us from all eternitie, and ſo before we were in Chriſt, why doe you ſay in pag. 11. 812. <q rend="inline">that God is freely and fully reconciled to the Elect, and loveth them <hi>in Chriſt?</hi>
+                     </q> your words following of <hi>perſons polluted and ſinfull,</hi> being in Chriſt, import an <hi>actuall being</hi> in Chriſt, as ſure as an <hi>actuall pollution,</hi> when they come to him. So much of this diſtinction.</p>
+                  <p>Pag. 12 You ſay that God is freely and fully reconciled to the elect, and loveth them in Jeſus Chriſt without any previous diſpoſitions, without any qualifications, without any performances of Conditions on their parts, unleſſe to be polluted and ſinfull be a previous condition, or qualification.</p>
+                  <p>
+                     <hi>Anſwer.</hi> The Lord expreſſeth it as the Cardinall condition of the Go<g ref="char:EOLhyphen"/>ſpel, that men muſt as well feel their ſinnes, as be ſinners. <hi>Matth.</hi> 11.28. <hi>Come to me ye that are weary, &amp;c.</hi> Which Chriſt explaines, <hi>Luke</hi> 15.7. <hi>Joy ſhall be in heaven over one ſinner that repenteth</hi> (which is a ſenſe of ſin at the leaſt) <hi>then over ninety nine Iuſt perſons that need no repentance:</hi> who are they, but ſuch as think they have no need? whom Chriſt calls not, <hi>Matth.</hi> 9.13. ſpeaking to the Phariſees, who juſtified themſelves. <hi>Luke</hi> 16.15.</p>
+                  <p>It is true, that the qualifications in man to <hi>prepare</hi> him for Chriſt (as <hi>Iohn,</hi> by telling men they needed to repent, calling them generations of Vipers, and telling them, That the Kingdom of Heaven was at hand, <hi>Mat.</hi> 3. is ſaid to <hi>make ready</hi> a people <hi>prepared</hi> for the Lord) muſt be from God. If there be the qualifications onely of illumination, conviction, and humiliation, (for a man blinde, or ſtubborn, defieth Chriſt) they are the common workes or graces of the Spirit of God, which may be in a reprobate <hi>Eſau, Iudas,</hi> &amp;c. <hi>Heb.</hi> 6.4. And therefore we cannot be underſtood in theſe to aſcribe to man, either merit or efficacy towards his owne ſalvation. If they be the qualifications of Converſion-graces, as of faith, &amp;c. they come in a ſpeciall manner from the Spirit of Chriſt, as the divine nature of Chriſt, and ſo cannot be imagined to be of man, though in man, and acting upon man, and man by them. For we cannot ſay, that Faith or beliefe doth beleeve, repentance doth repent, love doth love; but men acted and moved by theſe graces, are ſaid to be Beleevers, penitent, and lovers of God, So that though there be no qualifications on mans part, from man, yet on mans part from God. And though there be no performances on mans part by meer man, yet there are performances on mans part in man from Chriſts Spirit: when Chriſt will come and cloſe with the ſoul actually, then doth he act de<g ref="char:EOLhyphen"/>ſires, and faith into it, to make way for himſelf. <hi>Rev.</hi> 3. Chriſt knocks be<g ref="char:EOLhyphen"/>fore he let in. Chriſt opens <hi>Lydia's</hi> heart, then comes in. And <hi>Epheſ.</hi> 2.8.
+<pb n="26" facs="tcp:111235:16"/>
+                     <hi>By grace are ye ſaved, through faith, and that not of your ſelves, it is the gift of God:</hi> where it is evident, that beſides the riches of Gods free favour, ex<g ref="char:EOLhyphen"/>plained in verſ. 9. there muſt be Gods gift of Faith, to bring us unto, and in<g ref="char:EOLhyphen"/>to Chriſt. So <hi>Iohn</hi> 6.37. <hi>Him that commeth will I in no wiſe caſt out.</hi> There muſt at leaſt be a reſtleſſe deſire, that the ſoul cannot ſit ſtill without Chriſt; (though that be an effect of the Fathers gift, in the ſame verſe; <hi>All that the father giveth me, ſhall come to me)</hi> and then Chriſt <hi>will not caſt him out,</hi> or leave him out, but receive him in. The holy Ghoſt in that 11. <hi>Matth.</hi> 28. <hi>Come,</hi> that is, beleeve, ye that are <hi>weary</hi> and <hi>heavy laden,</hi> that is, weary of finne, and deſire to come out of it; compared with <hi>Matth.</hi> 5. where there is ſuch frequency and varietie of expreſſions of deſires, under the notions of <hi>poverty, mourning</hi> and <hi>hunger,</hi> and compared with <hi>Iohn</hi> 3. where there is oft mention of faith, as neceſſary to bring into Chriſt; and unto ſalvation; I ſay, the Holy Ghoſt by theſe places ſets forth unto us that there is a double condition of the Goſpel, Viz. <hi>Qua,</hi> &amp; <hi>Quae.</hi> 1. The qualification <hi>in which</hi> a man comes to Chriſt (that is, a ſenſible need of Chriſt.) 2. The qualifi<g ref="char:EOLhyphen"/>cation <hi>which</hi> brings a man to Chriſt, that is Faith, required unto ſalvation; but both <hi>of</hi> and <hi>from</hi> the Spirit, yea from the Spirit, as Chriſts Spirit, as ſent by the Mediatour, when effectuall. So that ſtill all is of God. But that which Chriſt doth to men before they come unto him, and into him, can<g ref="char:EOLhyphen"/>not be denied. And this method of the Lord, is much for our comfort, that the King comes not, <hi>ſine magno ſtrepitu, multo pulvere,</hi> without ſome hurry, ſomewhat to doe, that we may know the commings in of the Lord, and not derive all aſſurance from phanatick Enthyſiaſmes, &amp; phantaſtick dreams, that are neither from the word and work of Chriſt, nor warranted there by him.</p>
+                  <p>You think to comfort a ſinner by this, that Chriſt is his without any qua<g ref="char:EOLhyphen"/>lifications, performances, or conditions <hi>on mans part:</hi> But if there be no conditions, qualifications, &amp;c. performed by Chriſt <hi>in mans</hi> behalfe, as to put into him deſires, faith, love, &amp;c. How ſhall he know but that he is ſtill a miſerable ſinner, uniuſtified? How ſhall they ſay to their comfort, as 2 <hi>Tim.</hi> 1.12. <hi>I know whom I have beleeved,</hi> unleſſe they doe <hi>beleeve?</hi> And that <hi>Rom.</hi> 8.28. <hi>Wee know all work together for good to them that love God,</hi> unleſſe they feel their <hi>Love</hi> to God? And that 1 <hi>Epiſt. Iohn.</hi> 3.14 <hi>By this we know we are tranſlated from death to life, becauſe we love the Brethren,</hi> unleſſe they doe love the Brethren? But of theſe markes and ſignes in another place, if God permit.</p>
+                  <p>This Poſition being your main ground, together with the foreſaid di<g ref="char:EOLhyphen"/>ſtinction, I have been the longer in, confuting the one, and cleering the o<g ref="char:EOLhyphen"/>ther. I ſhall be briefer in taking down your props and ſuperſtructures, and
+<pb n="27" facs="tcp:111235:16"/>that plainly and lovingly. You offer to bring many Proofes, for the afore<g ref="char:EOLhyphen"/>ſaid <hi>unqualified</hi> Propoſition.</p>
+                  <div type="section">
+                     <head>
+                        <hi>Proof</hi> I.</head>
+                     <p>Pag. 12. Of Gods preaching ſalvation to <hi>Adam</hi> and <hi>Eve,</hi> in whom you would not have us to think there were any qualifications. pag. 13.</p>
+                     <p>
+                        <hi>Anſwer.</hi> 1. God made <hi>Adam</hi> afraid, by his voice in the garden. 2. God expounded to him the cauſe of his ſhame, namely his ſinne. 3. Preſſeth up<g ref="char:EOLhyphen"/>on him <hi>his ſinne, Gen.</hi> 3.17. and upon <hi>Eve</hi> hers, verſ. 16. As for the Pro<g ref="char:EOLhyphen"/>miſe, it fell from Gods mouth in his ſpeech to the Serpent. And then verſ. 20. is all the intimation of <hi>Adams</hi> Faith, calling his wifes name <hi>Chavah</hi> (ſee the Hebrew and the margin of the Engliſh Bible) that is, the mother of all living.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Your</hi> 2. <hi>Proof.</hi>
+                     </head>
+                     <p>
+                        <hi>Pag.</hi> 13. <hi>Abraham</hi> receiveth the Promiſe in the uncircumciſion of his fleſh.</p>
+                     <p>
+                        <hi>Anſw.</hi> Be it ſo (though the Apoſtles obſervation touching Iuſtification is, That <hi>Faith was reckoned to</hi> Abraham <hi>for Righteouſneſſe in his ſtate of uncir<g ref="char:EOLhyphen"/>cumciſion)</hi> yet doth it follow that all is done in the heart;
+<note place="margin">Rom. 49.10.</note> as ſoon as the Promiſe comes to the eare? Then all hearers are immediately ſaved at their firſt hearing of the Promiſe. But to the point in a word. God com<g ref="char:EOLhyphen"/>mands <hi>Abraham</hi> to come out of his Countrey, and God promiſeth to bleſſe <hi>Abraham,</hi> and to make him a bleſſing. <hi>Gen.</hi> 12. But it was faith that did actually derive all that upon <hi>Abraham. Rom.</hi> 4. <hi>Hebr.</hi> 11. By faith he recei<g ref="char:EOLhyphen"/>ved righteouſneſſe; and by faith he obeyed. And by faith muſt all the ſpi<g ref="char:EOLhyphen"/>rituall children of <hi>Abraham</hi> receive bleſſedneſſe. <hi>Gal.</hi> 3.9.26.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Your</hi> 3. <hi>Proof.</hi>
+                     </head>
+                     <p>2. Tim. 1.9. pag. 14. <hi>Who hath ſaved us with an holy calling, not according to our workees but according to his own purpoſe, and grace which was given us in Chriſt Jeſus, before the world began.</hi> Now what conditions or qualifications (ſay you) were there in us before the world began?</p>
+                     <p>I am not willing to ſtay my ſelf, or to ſtay you ſo long, as to tell you that this phraſe <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, here tranſlated, <hi>Before the World began;</hi> is not ſo infallibly evident, to ſignifie eternity, as that <hi>Epheſ.</hi> 1.4. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>Before the foundation of the world.</hi> That <hi>Calvin</hi> tran<g ref="char:EOLhyphen"/>ſlates this phraſe, <hi>Ante tempora ſecularia:</hi> Beza, <hi>Ante tempora ſeculorum, (ſeculum a ſequendo)</hi> which may be rendred, <hi>informer Ages,</hi> or <hi>before theſe
+<pb n="28" facs="tcp:111235:17"/>latter ages.</hi> That <hi>Auguſtine</hi> hath a ſubtill diſpute on this, confeſſed by <hi>Cal<g ref="char:EOLhyphen"/>vin.</hi> That the Greek word here <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, ſometimes ſignifies but terme of life. <hi>Philem.</hi> verſ. 15. As the Hebrew word <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Gnolam (Tempus homi<g ref="char:EOLhyphen"/>ni abſconditum,</hi> of <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>abſcondere)</hi> which anſwers to the Greek, ſomtimes ſignifies but the 50. yeeres of the Jubile, <hi>Exod.</hi> 21.6. ſometimes a mans life, 1 <hi>Sam.</hi> 1.28. But ſuppoſe this place to be meant of eternity; yet, 1. cry you not out; <hi>What is there, that is not comprehended in the word Grace?</hi> For that is your challenge. For though all followes upon that grace or favour here meant; yet the words <hi>purpoſe</hi> and <hi>grace</hi> (as <hi>Calvin</hi> and <hi>Beza</hi> well note) comprehend no more then a <hi>gracious purpoſe.</hi> So they; or at moſt a <hi>purpoſe of grace,</hi> if you dare to underſtand it of any other grace, then of that which in order of nature goes before purpoſe, God of his eternall grace or favour eternally purpoſing to ſave. And then what actuall ſaving is here, before actuall qualification of the ſoul, with ſomewhat from Chriſt for Chriſt. 2. Note the words, <hi>given us in Chriſt.</hi> So that, If given in <hi>pur<g ref="char:EOLhyphen"/>poſe,</hi> it is given in <hi>Chriſt,</hi> as when it is given in <hi>act,</hi> it is given in <hi>Chriſt.</hi> So that God doth ſtill look at us in Chriſt, as qualified, or to be qualified in Chriſt, from or by the power of Chriſt. Though in us and from us, there is no power or merit, we diſclaim the Arminians <hi>Foreſeen Faith,</hi> and the Pa<g ref="char:EOLhyphen"/>piſts <hi>Overſeen Workes,</hi> and both their power of <hi>Free-will;</hi> yet God ſaith in his Word, that he will ſave us actually by Faith in Chriſt, both which he gives us, <hi>Epheſ.</hi> 2.8. He gives Chriſt to us by <hi>Election</hi> and <hi>incarnation,</hi> and us to Chriſt by <hi>vocation,</hi> drawing us by the VVord and grace of Chriſt un<g ref="char:EOLhyphen"/>to and into Chriſt, <hi>Cant.</hi> 1.4. <hi>Joh.</hi> 6.44. which is the Third thing here in this Text of 2 <hi>Tim.</hi> 1.9. by you urged. That as God doth intend us, and purpoſe us favour in Chriſt, and gives it us intentionally in him, by electi<g ref="char:EOLhyphen"/>on, ſo ſaith the Text, <hi>Wee are ſaved being called with an holy calling.</hi> Cal<g ref="char:EOLhyphen"/>ling neceſſarily ſuppoſing hearing and underſtanding our condition, and beleeving in Chriſt: or elſe, how is it an <hi>holy</hi> Calling, and that which <hi>ſaves?</hi> If you doe not yeeld to theſe things, you ſet up Grace by diminiſhing Chriſt. And ſeem to make, as if Chriſt ſhould not be beholding to himſelf, becauſe he is not to man. For as Chriſt merits, ſo Chriſt alſo elects. As Chriſt offers himſelf graciouſly, ſo Chriſt gives man grace to receive him. <hi>Iohn</hi> 1.12. If this prevaile not with you, look to the very next verſe to that you allcage, 2 <hi>Tim.</hi> 1.10. and you ſhall finde, that the place ſpeakes not in verſ. 9. but of Gods <hi>purpoſe</hi> of favour. And in v. 10. of <hi>actuall; But is now made manifeſt, &amp;c.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="29" facs="tcp:111235:17"/>
+                     <head>
+                        <hi>Your</hi> 4<hi rend="sup">th</hi> 
+                        <hi>Proof.</hi>
+                     </head>
+                     <q>
+                        <bibl>Pag. 14. <hi>Epheſ.</hi> 2.4, 5.</bibl>
+                        <p>
+                           <hi>Verſ.</hi> 4. <hi>But God who is rich in Mercy, for his great Love, wherewith hee hath lo<g ref="char:EOLhyphen"/>ved us,</hi>
+                        </p>
+                        <p>
+                           <hi>Verſ.</hi> 5. <hi>Even when we were dead in Treſpaſſes and ſinnes, hath he quickened us together with Chriſt (by grace ye are ſaved.)</hi>
+                        </p>
+                     </q>
+                     <p>Out of this place your great deſigne is, to prove that men are loved with Gods great love, when they are dead in treſpoſſes and ſinnes. And the better to make way for it, you ſay, a ſtop may be made at the word <hi>ſinnes;</hi> And ſo read the Text thus continuedly, <hi>God loved us with his great love, even when we were dead in treſpaſſes and ſins.</hi> And this rea<g ref="char:EOLhyphen"/>ding, you ſay, the Text will bear either in the Originall, or in other Tranſlations. But however; you ſay the text will hold out the ſame concluſion.</p>
+                     <p>
+                        <hi>Anſwer.</hi> If wee ſay the text cannot be thus read after your new way, doe not ſay againe (as it is in your book given afore hand) that we are froward; but <hi>with meekneſſe of wiſedome we would inform you:</hi> 1. That the Originall will not beare it. For after Gods love is deſcribed in verſ. 4. A Comma being put at the word us, <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>us,</hi> the next verſe beginnes with <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>and?</hi>
+                        <note place="margin">Hutter.</note> yea ſome Greek copy puts a Period, a full ſtop at <hi>us</hi> in the Fourth verſe. As if he had as boldly read it thus (as you the other way) I ſay thus; <hi>But God is rich in mercy, for the love, or in regard of the love wherewith he hath loved us.</hi> They that know Greek, doe know that this doth not ſtraine the text. And then the ſenſe concurs; in the Fourth verſe is deſcribed, the <hi>what</hi> Gods love is; it is rich in mercy. And verſe 5. the <hi>wherein</hi> his Love is acted and manifeſted: <hi>Viz.</hi> in <hi>quickning</hi> us, &amp;c. And to put all out of doubt, that the Text will not beare the removall of the ſtop, obſerve the Antichriſis or oppoſition between our Paſſiveneſſe and Gods Act, verſ. 5. There God is ſaid to <hi>quicken us,</hi> and that with <hi>Chriſt.</hi> Now how or whom ſhall God be ſaid to <hi>quicken,</hi> but by taking into conſtruction that clauſe, <hi>us that were dead in treſpaſſes and ſinnes?</hi> That as Chriſt being <hi>dead,</hi> was <hi>quick<g ref="char:EOLhyphen"/>ned, Hebr.</hi> 13: So we from the death in ſinne, are <hi>quickened together with him.</hi> 2. As for other Tranſlations; The Hebrew Copy, and the Syriack Copy put at the word <hi>us</hi> in verſe 4. their full ſtop or Period. Nor doe I fee any other Tranſlations point it, as you would point. 2. From words, let us come to matter. If we ſhould lend you this Propoſition, that <hi>God loved us with his great love.</hi> VVHEN <hi>we were dead in treſpaſſes and ſinnes;</hi> what would you gaine? For theſe kind of <hi>Whens</hi> in the Scripture, as here, <hi>when</hi> you ware dead, and <hi>Rom.</hi> 5. <hi>when we were enemies,</hi> and <hi>Ezek.</hi> 16. <hi>When thou waſt in thy Blood,</hi> doe but import an order of Nature, or working, not a dif<g ref="char:EOLhyphen"/>ference
+<pb n="30" facs="tcp:111235:18"/>of time. That is, at the ſame inſtant, <hi>when</hi> wee were dead, ene<g ref="char:EOLhyphen"/>mies, in our blood, in the ſame inſtant did God put us into Chriſt by faith, and made us lovely, and actually loved us with his great love in him. So is the very ſcope of the Apoſtle here, to ſhew wherein did appeare Gods great love, namely <hi>in quickning us</hi> to a ſpirituall reſurrection <hi>with Chriſt.</hi> verſe 5. And <hi>in raiſing us</hi> to a ſpeciall Aſcenſion <hi>with Chriſt.</hi> verſe 6. And ſo <hi>Rom.</hi> 5.8, 9, 10. God commends his love towards us, that <hi>when</hi> we were enemies, &amp;c. we were reconciled to God by the death of his Sonne. And ſo in other <hi>whens.</hi> They doe but ſhew the matter God makes lovely in Chriſt, not a ſinfull condition, that he can love out of Chriſt.</p>
+                     <p>In common Speech, <hi>When</hi> muſt of neceſſitie ſo be taken, to ſignifie order of things, not antecedency of time. As one ſaith, I married my wife when ſhe was a Widow. This cannot be meant, that when ſhee was a widow, ſhee was married, or made a wife. And ſo God converted mee, when I lay in a moſt profane unregenerate condition. It cannot be meant, that <hi>when</hi> a man is regenerated, he is unregenerated. So when it is ſaid, <hi>God loved us with his great love,</hi> WHEN <hi>we were dead in Treſpaſſes and ſinnes, quickning us together with Chriſt:</hi> This cannot be meant, that God loved us with great love, being ſtill in our ſtate of ſinne, and out of Chriſt. For why then is he ſaid to be wroth with the ſelf ſame <hi>Epheſians,</hi> whiles out of Chriſt, and unregenerated, and <hi>unquickened?</hi> verſe 1, 2.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Your</hi> 5. <hi>Proof.</hi>
+                     </head>
+                     <q>
+                        <bibl>
+                           <hi>Pag.</hi> 15. <hi>Rom.</hi> 9.11, 12.</bibl>
+                        <p>The children not yet borne, and having done neither good nor evill, that the purpoſe of God might ſtand according to election.</p>
+                     </q>
+                     <p>
+                        <hi>Anſw.</hi> The Apoſtle expreſſely in your quotation, applies this to election. And <hi>election</hi> is called even here (as oft elſe-where) a <hi>purpoſe,</hi> and wee can<g ref="char:EOLhyphen"/>not ſay, that in regard of us, or upon us, that Gods purpoſe of love is actu<g ref="char:EOLhyphen"/>all love. God diſtinguiſheth himſelf between his Purpoſe and Act, <hi>Epheſ.</hi> 1.3, 4. and 2 <hi>Tim.</hi> 1.9, 10. Of which at large afore.</p>
+                     <p>Upon this place of <hi>Jacob,</hi> you make an Objection. pag. 16. What if <hi>Jacob</hi> after this had turned to be a notorious and profane Perſon, would, or could the Lord have conti<g ref="char:EOLhyphen"/>nued his love to ſuch a perſon as this? I anſwer boldly, (ſay you) yea. For Gods love, and mercie, are mercies of eternitie. <hi>Pſal.</hi> 103.17. <hi>Pſ.</hi> 136. <hi>Malach.</hi> 3.6. Should the Lord change as often as we change, he ſhould be more variable then the winde.</p>
+                     <p>
+                        <hi>Anſw.</hi> By theſe your words, and the Obiections of ſome that heare you, as a Commentary upon them, you ſeem to conceive, that if the Lord ſhould
+<pb n="31" facs="tcp:111235:18"/>not love us with as great love in a profane and unconverted condition, as after, then there were a change in God, and in his love: which to be your minde, is yet more plaine by many former Paſſages already alleaged; and eſpecially of that place out of <hi>Epheſ.</hi> 2. And that touching <hi>Paul;</hi> after in <hi>pag.</hi> 23.</p>
+                     <p>That God loved him with as great love, when he perſecuted the Church, as when he preached the Goſpel.</p>
+                     <p>But this inference will no wayes follow, That if God doth not actually love us from all eternitie in the ſame manner, that therefore there would be a change in God and his love. O that in ſuch deep things, you would ſpeak <hi>debitè,</hi> in proper termes, as a man that hath skill in Divine reaſon. Let me aske you a queſtion, Whether God, <hi>having choſen us in Chriſt before the foundation of the World, that wee ſhould be holy, and without blame before him in love, having predeſtinated us unto the Adoption of Children, by Jeſus Chriſt, &amp;c.</hi> can ſave us without our being in Chriſt, without holineſſe, &amp;c. If not (for his purpoſe is unchangeable) whether he doth not love to ſee us <hi>in Chriſt,</hi> rather then out; to ſee us <hi>holy,</hi> rather then not, &amp;c? If ſo, then there is a change in Gods acts, though not in his purpoſe. O that you would diſ<g ref="char:EOLhyphen"/>crecely mixe your ſweet drinkes, loſt they make your Ratients burſt. Poy<g ref="char:EOLhyphen"/>ſon is ſooner taken down lap'd in gold, or ſugared.
+<note place="margin">
+                           <hi>Keckerm.</hi> Syſt. Theolog. <hi>lib.</hi> 3. <hi>cap.</hi> 1.</note> 
+                        <q rend="inline">Evermore (ſay the Learned and Godly Schoolmen, wee call not the Papiſts in) put a wide difference between the Decree of God, and the execution of that De<g ref="char:EOLhyphen"/>cree: The Decre is <hi>eternall,</hi> but the beſtowing or giving of the end, by the means, is done in time.</q> So <hi>Keck.</hi> And he ſaith well. For though Gods Decree be eternall, yet the World was made in time, <hi>in ſixe dayes.</hi> There<g ref="char:EOLhyphen"/>fore when God actually looked upon it, and approved all as <hi>exceeding good,</hi>
+                        <note place="margin">Gen. 1.</note> that was done, was in time. So Chriſt was ſent in <hi>due time</hi> to die for us; and to ſave us in him, either at Third, Sixt, Nineth, or Eleventh houre,
+<note place="margin">Rom. 5.6. Matth.</note> there<g ref="char:EOLhyphen"/>fore God doth actually love us in him, <hi>in time.</hi> Yet all this doth not alter Gods purpoſe, but anſweres to his purpoſe,
+<note place="margin">
+                           <hi>Medul.</hi> Theolog. <hi>lib.</hi> 1 <hi>cap.</hi> 6.</note> and is the perfection of his pur<g ref="char:EOLhyphen"/>poſe, carrying on it ſelf to its deſigned end. <q rend="inline">To effect, worke or doe, (ſaith <hi>D. Ames)</hi> taken actively as they are in God the Agent, differ not really from God himſelf. For there is no compoſition or change of <hi>Power</hi> and <hi>Act</hi> in Gods moſt ſimple and immutable Nature: mark; <hi>not in his nature.</hi> But ſaith he, to <hi>effect, worke</hi> or <hi>doe,</hi> doth adde a certaine re<g ref="char:EOLhyphen"/>lation of God to a reall effect. And there belongs unto God an active power, in regard of the creature, which gives to the creature a <hi>poſſe recipe<g ref="char:EOLhyphen"/>re,</hi> a power to receive; which produceth an appearance of that act, which formerly was not.</q> So hee. So that Gods eſſentiall purpoſe is like him<g ref="char:EOLhyphen"/>ſelf, is himſelf, eternall, and unchangeable; but his outward actuall work<g ref="char:EOLhyphen"/>ing
+<pb n="32" facs="tcp:111235:19"/>is in time. And it is as great contradiction, to conceive an outward acti<g ref="char:EOLhyphen"/>on of God upon the creature, without all <hi>time,</hi> as to conceive hee ſhould make a body that ſhould be in no <hi>place.</hi> Add what the ſaid Doctor hath touching creation;
+<note place="margin">Ibid. cap. 8.</note> that you may not think me ſingular and ſelfiſh; Active <hi>creation,</hi> ſaith he, <hi>is conceived in manner of a tranſient action; in which is al<g ref="char:EOLhyphen"/>wayes ſuppoſed an object, upon which the agent doth act: yet is it not formaly tranſient, but only virtuall, becauſe it doth not ſuppoſe the object, but makes it.</hi> So hee. How much more therefore is Redemption a tranſient act, and juſtification a tranſient act: which doth cleerly ſuppoſe that praeexiſtent ob<g ref="char:EOLhyphen"/>ject, man, made already? And therefore, as actuall creation, done in time, though decreed eternally, doth not inferre a change in God: ſo, nor doth actuall Redemption, Juſtification, putting us into Chriſt, and loving us, as found in him, conclude that there is a change in God hereby, which before was eternal, but onely in the decree and purpoſe. God from all eternitie hath the <hi>Idea</hi> and platforme of all in his minde; yea his eſſence, as underſtood by himſelfe, is the <hi>Idea</hi> of all. But to ſay that God doth actually juſtifie, whiles man is not actually exiſtent, is to charge God with contradictions. Or to ſay that God doth actually love, juſtifie, &amp;c. that which is actually nothing, is to frame phantaſies to our ſelves.
+<note place="margin">
+                           <hi>God</hi> made man after his own Image.</note> God lookes on us no otherwiſe, from all eternity, for matter of <hi>being,</hi> but as he lookes upon his owne eſſence, the <hi>Idea,</hi> (as we ſaid) and platforme of all things. Therefore God in his de<g ref="char:EOLhyphen"/>cree cannot be ſaid to juſtifie us from all eternitie, unleſſe you dare ſay, God juſtifies himſelfe.</p>
+                     <p>There is the ſame reaſon of diſtinguiſhing of a man afore converſion, and after.</p>
+                     <p>If Gods decree be, that 1. he calls effectually by the Word;</p>
+                     <p>And then 2. juſtifies in Chriſt;</p>
+                     <p>And 3. glorifies with grace and bleſſedneſſe; Then it is impoſſible to conceive or ſay, That it is done eternally afore; that we are juſtified eter<g ref="char:EOLhyphen"/>nally afore, loved as juſtified eternally afore; when the Decree is, That is ſhall not be afore we are actually called.</p>
+                     <p>So this indeed is to defend Gods unchangeableneſſe to maintaine, that God doth <hi>Act</hi> all things in <hi>time, place, manner,</hi> and <hi>degree,</hi> exactly according to his eternall unchangeable <hi>purpoſe.</hi>
+                     </p>
+                     <q>
+                        <hi>Your Quotation of</hi> Rom. 5.6, 8. <hi>of</hi> Ezek. 16. <hi>wee anſwered afore:</hi>
+                     </q>
+                     <pb n="33" facs="tcp:111235:19"/>
+                     <p>The ſame Anſwer ſerves to that you alleage out of <hi>John</hi> 3.16. <hi>Thus,</hi> God purpoſed actually to love ſome of the World. And after he did actu<g ref="char:EOLhyphen"/>ally love thoſe of the World that were in Chriſt by faith. So that God actu<g ref="char:EOLhyphen"/>ally loved thoſe that were of the world, but not whiles of the World. And this place of <hi>John.</hi> 3.16. doth ſhew the order of Gods proceeding, to make us actually loved.</p>
+                     <list>
+                        <item>1. Hee having decreed to love.</item>
+                        <item>2. Prepared a Propitiation, gave his Son, for whom he might love.</item>
+                        <item>3. So actually loves all that beleeve in that Chriſt, that he ſaves them.</item>
+                     </list>
+                     <p>If you underſtand otherwiſe, of an actuall love in God towards the <hi>world,</hi> before they beleeve, then it will follow, that God doth actually love all the <hi>world,</hi> of which many never beleeve, yea, never were elected.</p>
+                     <p>I wonder why you doe ſo contend for this expreſſion,
+<note place="margin">Epheſ. 1.3, 4, 5.6.7, 8. Rom. 8.28.29. Rom. 9.11.</note> 
+                        <hi>That God doth love the elect from all eternity.</hi> For, 1. If the holy Ghoſt in Scripture calls it a <hi>Love</hi> once, he calls it a <hi>purpoſe,</hi> an <hi>election,</hi> a <hi>chooſing,</hi> a <hi>predeſtination,</hi> a <hi>fore-ordaining,</hi> a <hi>counſell,</hi> a <hi>determination,</hi> many times for that once. And we are to follow the frequenter expoſition of the holy Ghoſt, as a com<g ref="char:EOLhyphen"/>mentary to that which is more rare. 2 You your ſelf will call that <hi>actual</hi> love, which God beares to us, when we are actually in Chriſt by Faith. So you doe, Sermon 2. <hi>p</hi> 3. <hi>p.</hi> 5. And the Scripture ſaith, that before this, Gods love is but a <hi>purpoſe,</hi> a <hi>predeſtination,</hi> an <hi>election,</hi> &amp;c. Now a <hi>purpoſe,</hi> and an <hi>act</hi> of love, are immediate contraries, no middle love between both. And therefore what doe you contend for? A meer imagination. 3. <hi>Cui bono,</hi> to what end doe you ſtrive in this? For what more effectuall argument lies in this, to tell a poor forlorne ſinner, that God <hi>loves</hi> him, then to tell him, God hath <hi>elected</hi> him, or <hi>purpoſed</hi> to ſave him in Chriſt; for his Electi<g ref="char:EOLhyphen"/>on and Purpoſe are unchangeable. And you may as ſafely ſay the one, as the other: yea, ſafer. For that expreſſion, to tell him, that God <hi>loves</hi> him being yet out of Chriſt, may give an occaſion of miſtake, whereby to neg<g ref="char:EOLhyphen"/>lect Chriſt. Sure enough, on their parts that uſe this phraſe, God loves ſinners out of Chriſt, many groſſe expreſſions bud thence.
+<note place="margin">☜</note> As that you have, <hi>p.</hi> 27, 28. following, <hi>That we are Predeſtinated, choſen, redeemed, ſan<g ref="char:EOLhyphen"/>ctified, called, the heart opened, and all before Converſion comes.</hi> I leave you and all ingenuous men to ſtand and wonder at theſe words, till I come to anſwer them in their order, upon thoſe pages of your Book, which you ſee, wee quote in order. There you, and all candid men may ſee how unex<g ref="char:EOLhyphen"/>tricably you hamper your ſelf.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="34" facs="tcp:111235:20"/>
+                     <head>
+                        <hi>Pag.</hi> 21.</head>
+                     <q>
+                        <p>You ſay, neither may wee, nor will Chriſt himſelf ſay, that he purchaſed the Fathers Love for us.</p> 
+                     </q>
+                     <p>
+                        <label>Anſwer.</label> Here is another of thoſe
+<note n="*" place="margin">For you ſee, and ſay your ſelf, pag. 22. That you ſee a depth unſearch<g ref="char:EOLhyphen"/>able and you cannot tell what to ſay to it. So you.</note> 
+                        <hi>thickets</hi> you ruſh into, by underſtanding Gods <hi>election,</hi> or <hi>purpoſe</hi> to love, to be <hi>a love.</hi> And that his eternall love containes more then a purpoſe. For if you would keep to the frequenter expreſſions of the Scriptures of <hi>election, purpoſe,</hi> &amp;c. you would eaſily underſtand all.</p>
+                     <p>Namely, that as well the Son and holy Ghoſt, as the Father, doe elect and purpoſe to ſave ſinners. That all <hi>Three,</hi> as well as one of the Perſons, muſt be pacified by merit of a Saviour, God and man.</p>
+                     <p>That all Three Perſons doe purpoſe to love in this manner and method.</p>
+                     <p n="1">1. That <hi>they</hi> will ſend the Second Perſon to take humane nature (for Chriſt ſends himſelf, as he himſelf laid down his life, <hi>Ioh.</hi> 10.) to die, and prepare a ſatisfaction for ſinners.</p>
+                     <p n="2">2. That this Chriſts ſufferings ſhall be preached to ſinners, 2 <hi>Cor.</hi> 5.20.</p>
+                     <p n="3">3. That the efficacie of the Spirit entayled on the Miniſtery of the Go<g ref="char:EOLhyphen"/>ſpel 2 <hi>Cor.</hi> 3. ſhall make the elect by faith own theſe ſufferings, as done for them to diſcharge them, whereby they are united to Chriſt. <hi>Epheſ.</hi> 3.17.</p>
+                     <p n="4">4. Then God finding them in Chriſt, hee confeſſeth hee is ſatisfied and well-pleaſed with them, <hi>Matth.</hi> 3. <hi>verſe laſt. Matth.</hi> 17.5. Twice ſpoken from heaven, for the eminency of it. Which in ſenſe is all one, as that Chriſt merits Gods actuall love to ſinners. And that is the reaſon that Chriſt is ſo oft in Scripture
+<note n="*" place="margin">Heb 9.26 Rom. 3.25 Rom. 5 11. Epheſ. 2.14. 1 Cor. 5.</note> called our <hi>Sacrifice,</hi> our <hi>Propitation,</hi> our <hi>Atonement,</hi> our <hi>Peace,</hi> our <hi>Paſſeover,</hi> &amp;c.</p>
+                     <q>For that your dangerous Diſtinction; <hi>That God can begin to love without Chriſt, and after cannot continue it without the helpe of a Chriſt,</hi> I wade not into it, becauſe your ſelf in part wave it. And you doe well. For the grimneſſe of the thing it ſelf will make a conſcience afraid of it.</q>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>For thoſe your Expreſsions,</hi> Pag. 23.</head>
+                     <q>
+                        <p>That Gods love to us in our blood was as great as ever afterwards, and that God loved <hi>Paul</hi> with as great love when he perſecuted, as when he preached the Goſpel.</p>
+                     </q>
+                     <p>Becauſe I finde them there to be but words, without proof, I forbeare to confute them; unleſſe in one word: that if <hi>before</hi> and <hi>when</hi> ſignifie a <hi>time</hi> of being out of Chriſt; your words are moſt falſe. For whiles the elect <hi>Epheſians</hi> are out of Chriſt, they are <hi>without all hope, Epheſ.</hi> 2.12. And <hi>chil<g ref="char:EOLhyphen"/>dren of wrath, Epheſ.</hi> 2.2. And before men are in Chriſt, God doth but pur<g ref="char:EOLhyphen"/>poſe to love, not actually love, <hi>Epheſ.</hi> 1. Or elſe you muſt ſay, That God can actually love without Chriſts, making ſatisfaction to his Juſtice. If you
+<pb n="35" facs="tcp:111235:20"/>ſay, that theſe your aſſertions were proved afore; as you doe in that 23. <hi>pag.</hi> Then we can as truly ſay, they were anſwered afore. Thoſe expreſſions in the 23. <hi>pag. That God loves ſinners with infinite love. Yea, his Love is God himſelf.</hi> 1 <hi>Joh.</hi> 4.16. A word will ſuffice. God in himſelf is as eſſentially <hi>Juſtice,</hi> as he is <hi>Love.</hi> And therefore as neceſſarily muſt the one he ſatiſ<g ref="char:EOLhyphen"/>fied, as the other communicated to ſave. So that when his <hi>infinite juſtice</hi> is ſatisfied with Chriſts <hi>infinite merits,</hi> then hee can exerciſe with ho<g ref="char:EOLhyphen"/>nour to himſelf, his <hi>infinite love;</hi> himſelf properly being the only Obiect of his infinite Love, becauſe he is infinite. It is enough for ſinners, that he ſaves them to the uttermoſt. <hi>Hebr.</hi> 7.25. and that God <hi>Loves Chriſt infi<g ref="char:EOLhyphen"/>nitely, and loves us in him enough</hi> (if you dare ſay that obiectively and pro<g ref="char:EOLhyphen"/>perly, A creature is in a capacity of <hi>infinite act</hi> upon it, or that God can love infinitely a finite thing; unleſſe you mean infinite in duration, that is, eternall for time to come) And before his Iuſtice is ſatisfied, hee actually <hi>loves not, (Rom.</hi> 9.25. <hi>I will call her beloved, that was not beloved)</hi> but onely purpoſeth to love upon that conſideration and ſatisfaction, as wee have afore often proved, <hi>Heb.</hi> 9.26. &amp;c. Immediately before in the margin.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>For that Paſſage, onely breathed out,</hi> Pag. 24.
+<note place="margin">Gods Act of love is immanent in him: Gods acti<g ref="char:EOLhyphen"/>ons of love are tranſi<g ref="char:EOLhyphen"/>ent upon, and in the Creature.</note>
+                     </head>
+                     <q>
+                        <p>That Gods Love cannot increaſe or decreaſe.</p>
+                     </q>
+                     <p>Wee ſay, That it is true of the <hi>Act</hi> of Love in God. But the <hi>actions</hi> of Redemption and ſalvation from God to a creature, may as well increaſe, as thoſe of the creation, wherein the World was firſt a <hi>Chaos,</hi> &amp;c. after was raiſing to <hi>perfection</hi> ſixe dayes. The more of Chriſt is in a man, the more of Gods actions of love are manifeſted to him. Speciall graces, above com<g ref="char:EOLhyphen"/>mon graces. God ſpeaks higher touching thoſe his Martyrs, that have the ſuffering graces of Chriſt, then of others. <hi>Phil.</hi> 1.29. <hi>Dan.</hi> 12. <hi>laſt. Revel.</hi>
+                        <note place="margin">
+                           <hi>Heb.</hi> 6.4.9. The Apo<g ref="char:EOLhyphen"/>ſtle puts a wide diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>tween common graces, from which there may be a <hi>de<g ref="char:EOLhyphen"/>fection,</hi> and ſuch as <hi>accompany Salvation.</hi>
+                        </note> 20.4. If <hi>Actions</hi> of Gods love may not be more or leſſe to a Beleever within the latitude of never falling from grace totally, and finally: then there are no <hi>deſertions,</hi> of which there are ſo many inſtances in Scripture. Miſtake me nor. My meaning is, Though God never ceaſeth to love thoſe that are once in Chriſt, according to that, <hi>Joh.</hi> 13.1. <hi>Rom.</hi> 11.29. yet ſometimes he may doe more, ſometimes leſſe for the inward comfort of ſuch a ſoul; even as on the other ſide, a Chriſtian may more worke his own diſcomfort at one time, then at another.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>The reſt that you have in</hi> pag. 24.25. <hi>are in effect but repetitions of the ſame things. Therefore wee follow you to</hi>
+                     </head>
+                     <pb n="36" facs="tcp:111235:21"/>
+                     <head type="sub">Pag. 26, 27, 28.</head>
+                     <p>God doth not onely love us <hi>before converſion,</hi> with his <hi>great love,</hi> but (ſay you) with his <hi>greateſt love,</hi> that ever was communicated to the creature. This may appeare by ſeverall effects of the love of God communicated unto men, by God, in and through his Sonne, before converſion, faith, &amp;c. As <hi>Predeſtination, Chooſing, Redemption, Juſtification, Adopti<g ref="char:EOLhyphen"/>on,</hi> before repentance, faith, converſion, or calling. And <hi>Sanctification, Calling, opening the heart,</hi> all of them gracious acts of God, communicated unto the creature, before the con<g ref="char:EOLhyphen"/>verſion of the creature to <hi>God.</hi>
+                     </p>
+                     <p>
+                        <label>Anſwer.</label> O Brother, that you would conſider what ſtrange doctrine is here, which the Bible never knew. For that Scripture you alleage is flat againſt you. Namely, That <hi>God hath choſen us in him [Chriſt] Eph.</hi> 1.4. <hi>Hath predeſtinated us unto the adoption of Sons, by Jeſus Chriſt: Hath made us accepted in the Be<g ref="char:EOLhyphen"/>loved, in whom we have redemption through his Blood, even the forgiveneſſe of our ſinnes.</hi> verſ. 5, 6, 7. <hi>In whom we have obtained an inheritance.</hi> verſ. 11. For can any thing be <hi>communicated</hi> to the creature <hi>through Chriſt,</hi> (thoſe are your words) without Communion, Co-union with Chriſt by faith? Is not Chriſt in us by <hi>faith? Epheſ.</hi> 3.17. Doth not the Scripture ſpeak as plainly as may be; that wee are the ſonnes of God (which is <hi>Adoption</hi>) by <hi>faith? Ioh.</hi> 1.12. <hi>Accepted</hi> in him through <hi>faith, Hebr.</hi> 11.6. That wee have Forgive<g ref="char:EOLhyphen"/>neſſe of ſinnes (which is <hi>juſtification</hi>) by <hi>faith? Rom.</hi> 5.1. That the <hi>inheritance</hi> is not of the law, but of <hi>faith? Gal.</hi> 3. So for the expreſſions you uſe above; the Scripture is cleer, that <hi>ſanctification</hi> is by <hi>faith,</hi> 1 <hi>Ioh.</hi> 3.1.2. <hi>Acts</hi> 15.9. That effectuall <hi>calling</hi> is by <hi>faith, Heb.</hi> 4.2.</p>
+                     <p>If you had only meant, that all theſe, <hi>chooſing, redemption, juſtification,</hi> &amp;c. had been made a ſinners by Gods decree and purpoſe: 1. You would not have ſaid, they were <hi>communicated</hi> to the creature. 2. You ſhould not have num<g ref="char:EOLhyphen"/>bred <hi>Predeſtination</hi> with the reſt. For by this meanes, you ſpeak vaine re<g ref="char:EOLhyphen"/>petitions, thus; Predeſtination is communicated by Predeſtination. For Predeſtination can be no otherwiſe ours, then in Gods purpoſe. 3. Why did you not think upon this, that in Gods purpoſe, <hi>faith,</hi> and <hi>repentance,</hi> and <hi>converſion,</hi> were eternally as well thought upon by God, and intended for man, as Redemption and Juſtification? He lincks the means and the end in an indiſſolvable chain, <hi>Rom.</hi> 8.</p>
+                     <p>So that in Gods decree, you cannot ſay that any one of thoſe Acts is old<g ref="char:EOLhyphen"/>er then another.</p>
+                     <p>Let any man read your words over again, and ſpeak truly, whether you can mean any thing (if he make ſenſe of your words, though falſe) unleſſe he underſtand a <hi>communicating,</hi> that is <hi>actuall,</hi> and not mentall meerly in God. For you ſpeak of <hi>ſanctifying</hi> an ungodly man: of <hi>effectuall</hi> Calling <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> as ſome of the inſtances of thoſe things that you ſay, are <hi>communicated in
+<pb n="37" facs="tcp:111235:21"/>Chriſt</hi> (another note, that you meane actuall communicating:) And then you fall upon your Bead-roule (as they ſpeak, if not your bad-roule) of a <hi>redemption, juſtification, ſanctification, calling, opening the heart,</hi> communicated to the creature, before the converſion of a creature to God. Good Lord teach you ſeriouſly to think what converſion that is, that hath no effectuall calling: or what effectuall calling that is, that may be without converſion.</p>
+                     <p>For that ſpeech (which in effect we had afore, <hi>pag.</hi> 23.) though we have anſwered it effectually (we hope) afore; yet leſt any ſhould caſt an eye upon it here as unanſwered, and ſo conceive it unanſwerable, (though you doe but ſpeak, not prove) wee anſwer in a word.</p>
+                     <p>Before Calling and Converſion, God doth onely purpoſe, predeſtinate, elect ſinners to be loved in time, <hi>Epheſ.</hi> 1. firſt 11. <hi>verſes</hi> (a place of your own quotation:) not actually love. <hi>Rom.</hi> 9.23. <hi>I will call them my people that were not my people, and her beloved that was not beloved.</hi> And in Gods pre<g ref="char:EOLhyphen"/>deſtination God doth as well purpoſe mans fall, and foreſees him <hi>a childe of wrath, Epheſ.</hi> 2.2. as his ſalvation. And therefore when <hi>God</hi> doth actually give Chriſt to us, and us to Chriſt, there is his <hi>great,</hi> and greateſt love. For in him we have all. 1 <hi>Cor.</hi> 3.22.23. Yet you will hold the concluſion. <hi>p.</hi> 30. That <hi>Gods</hi> love is as great before faith, as after: yet you know, that <hi>God</hi> ſaith, <hi>Without faith it is unpoſsible to pleaſe him. Heb.</hi> 11.6.</p>
+                     <p>Next, you come to anſwer Objections; and we to reply to them. <hi>Jn the Objection againſt the Page</hi> 32. <hi>(which you have not anſwe<g ref="char:EOLhyphen"/>red to refute, yet we have ſpoken to afore.)</hi> that diſtinction of hating the ſinne, not the creature, which you you reject, <hi>is a trueth.</hi>
+                     </p>
+                     <p>God cannot hate the entities or beings he made,
+<note place="margin">
+                           <hi>Gen.</hi> 1.31.</note> 
+                        <hi>Phyſically</hi> conſide<g ref="char:EOLhyphen"/>red, no not the devill himſelfe, for being conſidered ſo, abſtractively from ſinne, God ſaw <hi>all exceeding good.</hi> But morally conſidered, as ſinfully man<g ref="char:EOLhyphen"/>nered, ſo he hates them.</p>
+                     <p>He hates the <hi>workers</hi> of iniquitie, becauſe of that iniquity, <hi>Pſal.</hi> 36.2. He flattereth himſelfe till his iniquity be found to be hatefull: which done a<g ref="char:EOLhyphen"/>way in Chriſt, he loves them dearely, <hi>Epheſ.</hi> 2.1, 2.</p>
+                     <p>
+                        <hi>Likewiſe that diſtinction Page</hi> 33. <hi>rejected by you,</hi>
+                     </p>
+                     <p>Of Gods love of <hi>benevolence</hi> to the ſinner before converſion, and his love of <hi>Compla<g ref="char:EOLhyphen"/>cience</hi> to him after converſion.</p>
+                     <p>It hath more light in it, than all your aſſertions in this diſpute, (which are a very darkneſſe) provided that it be meetly underſtood. Namely, that God hath a <hi>benevolent</hi> purpoſe of ſaving a ſinner before converſion or faith in Chriſt. And after theſe, he hath an actuall love of <hi>Complacency</hi> to him.
+<pb n="38" facs="tcp:111235:22"/>And before that not.
+<note place="margin">Mat. 3.17. &amp; 17.5. So <hi>Auguſt. In quo, non cum quo.</hi>
+                        </note> Your own proof ſhall aſſert it: <hi>This is my beloved ſon</hi> IN <hi>whom</hi> (not VVITH whom) <hi>I am well pleaſed: Heare yee him.</hi> So that men muſt <hi>heare</hi> and <hi>have,</hi> and be <hi>in</hi> Chriſt, and then God is well pleaſed with them: Not afore.</p>
+                     <p>This you grant unawares page 38. in your owne Anſwer to the Ob<g ref="char:EOLhyphen"/>jection, and ſo doe yeeld the Queſtion; namely, in your large parallel, or as leaſt antitheſis in that page 38. between <hi>Juſtice</hi> and <hi>Mercy, Law</hi> and <hi>Go<g ref="char:EOLhyphen"/>ſpell.</hi> The ſumme whereof is, to uſe your owne words, That the one decla<g ref="char:EOLhyphen"/>reth wrath without forgiveneſſe; the other, mercy, grace, and peace in Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+                     <p>
+                        <note n="*" place="margin">VVhere alſo you put a diffe<g ref="char:EOLhyphen"/>rence very wel of be<g ref="char:EOLhyphen"/>ing under the Law, and under grace.</note> The onely piece of Divinity that we have had from you all this while. The Lord keep us all to that.</p>
+                  </div>
+                  <div type="section">
+                     <head>In your Anſwer likewiſe to the ſecond Objection, Page <hi>40.</hi> which you propound as againſt you, out of</head>
+                     <q>
+                        <p>
+                           <hi>Math.</hi> 6.15. and 18.35. <hi>If you forgive not men,</hi> &amp;c. <hi>your heavenly Father will not forgive you.</hi>
+                        </p>
+                     </q>
+                     <p>In ſumme you yeeld the queſtion, and overthrow your eternall Juſtifi<g ref="char:EOLhyphen"/>fication, &amp;c. For you yeeld that there is a <hi>time</hi> when a man doth not ap<g ref="char:EOLhyphen"/>prehend or lay hold on (for the words are the ſame in ſenſe) Gods forgive<g ref="char:EOLhyphen"/>neſſe. And that till Gods pardon come to us, we cannot pardon men. And ſure enough we cannot doe that till converſion, that <hi>makes the Wolfe to dwell with the Lamb,</hi> as the Prophet ſpeaks.</p>
+                  </div>
+                  <div type="section">
+                     <head>Likewiſe in your laſt anſwer, Page <hi>46.</hi> to the third Objection, Page <hi>45. viz.</hi>
+                     </head>
+                     <q>If God love us before converſion, as well as after, then to what purpoſe ſerveth faith?</q>
+                     <p>I ſay in your anſwer to this objection, you overthrow your own poſiti<g ref="char:EOLhyphen"/>on of juſtification before faith. For theſe are your very words. Faith is to good purpoſe, that believing, <hi>you, who were under darkneſſe, and in the</hi> ſhadow of death, <hi>and ſaw no light, yet</hi> I ſay, <hi>yee might rejoyce with joy unſpeakable, and full of glory, receiving the end of your faith.</hi> 1 Pet. 1.8, 9.
+<note n="*" place="margin">You durſt not goe on with the whole 9. ver. of that 1 <hi>Pet.</hi> but break off in the mid<g ref="char:EOLhyphen"/>dle, exclu<g ref="char:EOLhyphen"/>ding that clauſe, <hi>E<g ref="char:EOLhyphen"/>ven the ſal<g ref="char:EOLhyphen"/>vation of your ſoules.</hi> Becauſe that you thought did too apparent<g ref="char:EOLhyphen"/>ly attri<g ref="char:EOLhyphen"/>bute ſalva<g ref="char:EOLhyphen"/>tion to faith. Read the place wiſely.</note> Rom. 15.13. <hi>The God of hope fill you with all joy and</hi> peace <hi>in believing.</hi> So you. Now where is <hi>life,</hi> where is <hi>peace,</hi> before faith comes, according to your owne an<g ref="char:EOLhyphen"/>ſwer, and your proofes of Scripture.</p>
+                  </div>
+                  <div type="section">
+                     <head>The other three laſt Objections, Page <hi>51.</hi> &amp;c. againſt your Do<g ref="char:EOLhyphen"/>ctrine of Juſtification, and Reconciliation before faith. As</head>
+                     <q>
+                        <p n="1">1. That then what need we take care what we doe? if we believe, the Lord will not
+<pb n="39" facs="tcp:111235:22"/>love us the better; if we believe not, he will not love us the worſe.</p>
+                        <p n="2">2. That then a man may dye without faith, and yet be ſaved.</p>
+                        <p n="3">3. Why then doth God ſuffer us to live in prophaneneſſe, twenty, fifty, ſixty yeares?</p>
+                     </q>
+                     <p>I ſay theſe Obiections following meerely on your unſound Doctrine, are ſtronger to doe hurt, than all your declamations againſt deſperateneſſe and looſeneſſe, and diſparaging the power of being under grace, (beneath ſome heathens morality) are likely to prevent. It is in vain for that man to forbid yong people the concluſion of committing fornication, that allows them the premiſes of all wanton carriage. Corrupt men are in their kind rationall, and they will conclude according to the principles you teach them.
+<note place="margin">☜</note> A maid led away with this Doctrine ſaid boldly to me, that ſhe knew not how ſhe could offend Jeſus Chriſt by any thing ſhe did. But I leave men to read the Book of our brethren of <hi>New-England,</hi> touching the tragicall effects of theſe Doctrines.</p>
+                  </div>
+               </div>
+               <div type="subpart">
+                  <head>2. Part. <hi>Or Sermon, Reconciliation of man to God.</hi>
+                  </head>
+                  <q>
+                     <p>
+                        <hi>Page.</hi> 1. There is (ſay you) in Scripture a twofold Reconciliation: 1. Originall. 2. Actuall. Parallel to the diſtinction of originall, and actuall ſinne. Originall Recon<g ref="char:EOLhyphen"/>ciliation is of our natures; Actuall is of our perſons.</p>
+                  </q>
+                  <p>
+                     <hi>Anſw.</hi> 1. There are no ſuch termes of diſtinction in all the Scripture. Thoſe places you bring for it, <hi>Rom.</hi> 5.10. <hi>Epheſ.</hi> 2.16. <hi>Coloſ.</hi> 1.21. 2 <hi>Cor.</hi> 5.18, 19. let all men read and iudge whether there be the leaſt hint of any ſuch thing.</p>
+                  <p>For is this any argument, that becauſe the Apoſtle ſaith to the <hi>Romans, Epheſians,</hi> and <hi>Coloſsians,</hi> that they were already reconciled, and tells the <hi>Corinthians,</hi> that he was now but a perſwading them to be reconciled, that therefore the <hi>Corinthians</hi> had one reconciliation, and were to have another? For nakedly this is the ſenſe of your inference. For theſe are your very words, you having quoted the former places.</p>
+                  <p>Now (ſay you) compare we theſe <hi>three</hi> places fore-mentioned, with that which we find, 2 <hi>Cor.</hi> 5.20. In the former places the Apoſtle told us, we <hi>were</hi> reconciled, and in this place he beſeecheth us <hi>to be</hi> reconciled: So you. If you miſtook your ſelfe, and intended to make the parallel between the 18. verſe of 2 <hi>Cor.</hi> 5. <hi>God hath reconciled us to himſelfe,</hi> and verſe 20. <hi>We pray you in Chriſts ſtead to be reconciled.</hi> Meaning herein, that the ſame <hi>Corinthians were</hi> reconciled, and were yet <hi>to be</hi> reconciled. Know that in that 18. verſe the Apoſtle ſpeakes of his, and his fellow Miniſters reconcilia<g ref="char:EOLhyphen"/>tion; verſe 19. of the reconciliation of others in the world. And therefore
+<pb n="40" facs="tcp:111235:23"/>ver. 20. intreats and beſeecheth the <hi>Corinthians,</hi> that were not yet converted, to be reconciled. For as for the other, they were Saints, and a Church of God, Chap. 1.1. and therefore actually reconciled.</p>
+                  <p n="2">2. <hi>Anſw.</hi> If <hi>our</hi> firſt reconciliation be originall, that is, hath a begin<g ref="char:EOLhyphen"/>ning, like as originall ſinne: then our firſt reconciliation is not before the foundation of the world; much leſſe our ſecond, which you call actuall.</p>
+                  <p>And whereas in your firſt part, or Sermon, you mention another reconor<g ref="char:EOLhyphen"/>liation before both theſe, namely <hi>Gods</hi> reconciliation of <hi>himſelfe to us,</hi> we ask you what ſhall be the obiect of this reconciliation, ſeeing that our <hi>nature</hi> and perſons are not (ſay you) reconciled but by the other two, namely, by that originall and actuall reconciliation.</p>
+                  <p n="3">3. By bringing both ends of your Book together, we perceive that the whole frame of your mouldring foundation is this. 1. <hi>God</hi> is reconciled to man, <hi>Serm.</hi> 1. <hi>Page</hi> 2. And this containes ſuch a love as Chriſt never pur<g ref="char:EOLhyphen"/>chaſed. <hi>Page</hi> 21. Yea that God was never an enemy, <hi>page</hi> 2.2. There is reconciliarton of us to God: and this is two-fold.</p>
+                  <p n="1">1. <hi>Originall,</hi> of our natures, 2 <hi>Serm. Page</hi> 2. And of this you lay down this Propoſition, That we were reconciled to God by the death of his Son, without any previous conditions in us, <hi>page</hi> 3. Here you admit Chriſts ſufferings: but Chriſts grace and ſpirit of faith is excluded.</p>
+                  <p n="2">2. <hi>Actuall</hi> Reconciliation of our perſons, <hi>page</hi> 2. And of this you lay downe this poſition, <hi>page</hi> 5. of your 2. <hi>Part</hi> or <hi>Sermon.</hi> Mans actuall re<g ref="char:EOLhyphen"/>conciliation (ſay you) to God, requireth previous conditions and qualifi<g ref="char:EOLhyphen"/>cations to be wrought in man by the Spirit of God, before man can be actu<g ref="char:EOLhyphen"/>ally reconciled to God, or Gods reconciliation manifeſted unto him. For there are (ſay you) three ſorts of conditions. 1 Antecedent. 1 Know<g ref="char:EOLhyphen"/>ledge of ſin. 2 Knowledge of the depth of miſery by ſin to ſuch. 2 Pre<g ref="char:EOLhyphen"/>ſent. 1 Without believing (the ſoule remaining in the body) cannot bee reconciled to God. <hi>John</hi> 3.36. That by believing the ſoule is actually re<g ref="char:EOLhyphen"/>conciled to <hi>God, Iohn</hi> 3.33 <hi>John</hi> 1.12. <hi>Rom.</hi> 5.1. Thus you. Your third ſort of conditions are rather effects than conditions. therefore I mention them not.</p>
+                  <p>Thus (brother) after you have filled the bellies of your auditory with crudities; (I am loath to ſay poyſon) in your after ſervice, or ſecond courſe you bring ſomewhat that is wholſome, in that one diſh of <hi>actuall</hi> recon<g ref="char:EOLhyphen"/>ciliation. All the reſt we muſt vomit up, or we die. To that end I goe on to adminiſter my <hi>Doſis.</hi>
+                  </p>
+                  <p n="1">1. <hi>Anſ.</hi> That there is but one only reconciliation; namely, that of God and man into atonement by faith in the one &amp; only. Mediator Jeſus Chriſt. We proved afore
+<note n="*" place="margin">On page 2 of 1. Ser<g ref="char:EOLhyphen"/>mon.</note> that the Scripture would yeeld you this one only, &amp; not two;
+<pb n="41" facs="tcp:111235:23"/>much leſſe will it now allow you three: one being enough; and therefore one onely held out to us in the word, whereof we have ſaid ſo much already, that we ſhall add the leſſe now. 1. The <hi>quarrell</hi> between God and us is but <hi>one,</hi> namely our fall in <hi>Adam,</hi> and continuance in that condition, <hi>Rom.</hi> 5. it's the buſineſſe of the Chapter. 2. The <hi>ſatisfaction</hi> is only <hi>one,</hi> and made at once, <hi>Rom</hi> 6.10. <hi>In that Chriſt dyed, he dyed unto ſinne</hi> ONCE. <hi>Likewiſe reckon yee alſo your ſelves dead to ſin, but alive to God.</hi> Hebr. 7.27. <hi>Chriſt nee<g ref="char:EOLhyphen"/>deth not dayly to offer up ſacrifice: for this he did</hi> ONCE. Heb. 9.12. <hi>Chriſt by his owne bloud entred in</hi> ONCE <hi>into the holy place, having obtained eternall re<g ref="char:EOLhyphen"/>demption for us,</hi> (mark that clauſe) Heb. 9.26. <hi>But now</hi> ONCE <hi>in the end of the world, hath he appeared to put away ſin, by the ſacrifice of himſelfe.</hi> And ver. 28. <hi>Chriſt was</hi> ONCE <hi>offered to beare the ſins of many, and unto them that look for him he ſhall appear the ſecond time without ſin unto ſalvation.</hi> 1 Pet. 3.18. <hi>Chriſt hath</hi> ONCE <hi>ſuffered for ſins; the juſt for the unjuſt; that be might bring us to God.</hi> And ſo in the fourth of <hi>Epheſians,</hi> the Apoſtle much runs upon <hi>one:</hi> That as every Chriſtian hath but <hi>one</hi> God the Father, and <hi>one</hi> Lord (Jeſus Chriſt) and <hi>one</hi> and the ſame holy Spirit: ſo every one hath <hi>one</hi> calling, <hi>one,</hi> hope, <hi>one</hi> faith, and <hi>one</hi> Baptiſme, as a ſeale of thoſe. Out of all we conclude, that if Chriſt did not at <hi>once</hi> make a full reconciliation for all that ſhall bee found in him; then is he an inſufficient Saviour. If he did make a full and ſufficient ſatisfaction, whereof they have benefit by the <hi>individuall</hi> act of ju<g ref="char:EOLhyphen"/>ſtification, <hi>Rom.</hi> 5.1. then is he fully within the atonement in an inſtant.</p>
+                  <p n="2">2. <hi>Anſw.</hi> Reconciliation,
+<note place="margin">
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, That is, the Eccle<g ref="char:EOLhyphen"/>ſiaſticall, Church polity. No members of a <hi>Church. Iſmael</hi> in the Church circumci<g ref="char:EOLhyphen"/>ſed. His poſteritie out of the Church not cir<g ref="char:EOLhyphen"/>cumciſed.</note> and non-reconciliation are immediate contra<g ref="char:EOLhyphen"/>ries: therefore either a man is wholly reconciled, or nothing reconciled. This immediate contrariety the Apoſtle toucheth and intimateth, 2 <hi>Cor.</hi> 6.14. where the Apoſtle makes the oppoſition between believers, and unbelie<g ref="char:EOLhyphen"/>vers, to be as between <hi>righteouſnes and unrighteouſnes, light and darknes, Chriſt and Belial.</hi> And the Apoſtle toucheth our concluſion or inference, that a man is either wholly irreconciled, or reconciled, <hi>Eph.</hi> 2.11, 12, 13, 14, 15, 16. <hi>Remember that ye in</hi> time paſſed <hi>were Gentiles in the fleſh who were called uncir<g ref="char:EOLhyphen"/>cumciſion, &amp;c. that at</hi> that time <hi>yee were without Chriſt, being aliens from the common-vvealth of Iſrael, (or rather</hi> * Politie <hi>of Iſrael) and ſtrangers from the covenants of promiſe, having no hope, vvithout God in the vvorld. But now in Chriſt Jeſus, ye vvho</hi> ſometimes <hi>vvere far off, are made nigh by the bloud of Chriſt: For hee is our peace, vvho hath made both one, and hath broken down the middle wall of partition between us, having aboliſhed the enmity, even the Law of Commandements, contained in ordinances, for to make in himſelf of twain one new man, ſo making peace, and that hee might reconcile both unto God in one body by the croſſe.</hi> O golden place to our purpoſe! Read it, and read it; and weigh it and read it. See 1. the Apoſtle ſets down once and a<g ref="char:EOLhyphen"/>gain
+<pb n="42" facs="tcp:111235:24"/>
+                     <hi>a time</hi> in this life wherein they were not reconciled. 2. Saith, that the they were afar off. 3. That as they were without <hi>hope,</hi> ſo without <hi>Chriſt;</hi> as without Chriſt, ſo without <hi>God;</hi> God and they were not reconciled. And 4. That the bloud of Chriſt, the creſſe of Chriſt (by the preaching of peace, verſe 17.) had made believers (verſe 8.) Jewes and Gentiles, <hi>one among</hi> themſelves, and both <hi>one with God</hi> at <hi>Peace.</hi> I know not what can be plai<g ref="char:EOLhyphen"/>ner to convince, that we are either altogether at peace; God with us, and us with God; or elſe not at peace at all.</p>
+                  <p n="3">3. <hi>Anſw.</hi> I remember it was the maine argument of the Orthodox a<g ref="char:EOLhyphen"/>gainſt the <hi>Arminians,</hi> that if we might fall <hi>totally</hi> (as the Arminians ſaid) from grace, and yet not <hi>finally;</hi> that they ſhould produce the evidences of Scriptures ſet downe of one totally fallen, and not finally. If the Scripture ſet down none, but of thoſe that were totally off, or finally on, then the Ar<g ref="char:EOLhyphen"/>minian truth was not ſound. So may wee argue, that the Scriptures ſet down no diſcoveries of one halfe reconciled, or two parts reconciled, and not the third, (for you make three reconciliations one after another) but ſet down a demonſtration to know whether we are wholy unreconciled, or who<g ref="char:EOLhyphen"/>ly not. And therefore either we are wholly reconciled, or wholly not, for the time, till Chriſt comes and makes the change. This demonſtration ſet down in the Scripture is onely from the act of actuall iuſtification by faith in Chriſt, <hi>Rom.</hi> 5.1. By this we are bleſſed, or elſe not bleſſed, <hi>Rom.</hi> 4.6. Faith makes that there is <hi>no difference</hi> between us and others in ſtate of ſalvation, or elſe there remains the difference, that we are not in ſtate of ſalvation, for the time, till God comes and alters the caſe through faith. This is evident <hi>Acts</hi> 15.9.11. <hi>And put no difference between us and them purifying
+<note n="*" place="margin">There is a purity by faith as well as of imputati<g ref="char:EOLhyphen"/>on, &amp; of ſanctifica<g ref="char:EOLhyphen"/>tion. <hi>Rom.</hi> 4.3.</note> their hearts by faith. But wee believe that through the grace of our Lord Jeſus Chriſt we ſhall be ſaved even as they.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="postscript">
+               <head>The Poſtſcript.</head>
+               <p>MUch more might bee ſaid; but I have been much larger than I intended, though I had two ſeverall printed Tracts to anſwer; the materiall miſtakes whereof we have diſcuſſed, not letting one (as I know of) eſcape. I wiſh it had been undertaken by a fitter man, and to ſuch a one <hi>I</hi> had left it, but that <hi>I</hi> ſaw moſt of the able men ſo buſie; and the meane while ſome of my neere friends, to begin to bee taken with theſe miſtakes: I have anſwered with as much judgement as I could, in ſo verie a ſhort time as <hi>I</hi> had allotted for this buſineſſe, ſtill carrying with me a render con<g ref="char:EOLhyphen"/>ſcience (the Lord knowes I lye not) that I nught not in the leaſt grain or jota, preju<g ref="char:EOLhyphen"/>dice or cloud the free grace of God in Jeſus Chriſt, which is more precious to me than my life, and the onely bridge that muſt carry me over the eternall Lake to heaven.</p>
+               <p>I have alſo uſed as much modeſty and love in all my expreſſions as I could (I appeale to the would for the truth of this) that I might not grieve any, but guide them. If any apprehend any materiall miſtakes, let them but with divine reaſon cleere them unto me, and I will print my retraction. Or if they will needs print a confutation, let them but doe by me, as I have done by this, for the <hi>manner;</hi> and keep to the Scriptures for <hi>matter,</hi> and I will ſay well done. <hi>Farewell.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
